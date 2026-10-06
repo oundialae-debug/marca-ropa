@@ -24,5 +24,8 @@ Criterios: fácil de pronunciar en ES/EN/FR/DE, corto, con significado, que esca
 ## Shortlist (07/10/2026)
 Saraya, Nesma, Lumna. Búsqueda web rápida: ninguna marca de ropa clara con esos nombres (ojo: LUMNEST y LOMANA, ropa, parecidas a Lumna). Falta comprobar en TMview/EUIPO, UKIPO, dominios y redes.
 
+## Verificación (07/10/2026, hecha por el usuario)
+Lumna y Nesma libres en TMview/clase 25; .com cogido en ambas → usar variante (wear-, -studio, shop-).
+
 ## Siguiente paso
 Verificar en EUIPO, UKIPO, dominio .com e Instagram/TikTok antes de elegir.
