@@ -1,4 +1,6 @@
-# Nombres propuestos (07/10/2026) — sin verificar
+# Nombres propuestos (07/10/2026)
+
+**ELEGIDO: Nesma** (brisa) — 07/10/2026.
 
 Criterios: fácil de pronunciar en ES/EN/FR/DE, corto, con significado, que escale fuera de Europa.
 
@@ -28,4 +30,4 @@ Saraya, Nesma, Lumna. Búsqueda web rápida: ninguna marca de ropa clara con eso
 Lumna y Nesma libres en TMview/clase 25; .com cogido en ambas → usar variante (wear-, -studio, shop-).
 
 ## Siguiente paso
-Verificar en EUIPO, UKIPO, dominio .com e Instagram/TikTok antes de elegir.
+Dominio (variante) y @ en redes, más adelante.

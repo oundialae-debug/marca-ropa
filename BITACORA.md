@@ -4,6 +4,7 @@ Una línea por decisión o cambio, la más reciente arriba.
 
 - 07/10/2026: un chat por carpeta; cada README define su chat y su rango; chat General coordina.
 - 07/10/2026: nueva regla: avisar siempre cuando un tema requiera otro chat por carpeta.
+- 07/10/2026: nombre de la marca elegido: **Nesma**. Dominio pendiente.
 - 07/10/2026: Lumna y Nesma libres como marca; .com cogido, se usará variante.
 - 07/10/2026: shortlist de nombres: Saraya, Nesma, Lumna (pendiente de verificar).
 - 07/10/2026: nicho elegido: moda musulmana/modesta de mujer (Europa + UK). Análisis en `mercados/analisis-mercado-modest.md`; nombres en `marca/nombres-propuestos.md`.
