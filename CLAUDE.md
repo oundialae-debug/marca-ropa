@@ -1,16 +1,22 @@
-# marca-ropa (nombre provisional)
+# Nesma (repo marca-ropa)
 
 Marca de ropa de mujer con tienda online (Shopify) que vende en Europa.
 
-**ESTADO:** empezado (07/10/2026). Nicho: moda musulmana/modesta de mujer, Europa + UK.
+**ESTADO:** empezado (07/10/2026).
+
+## Decisiones globales (afectan a todos los sectores)
+- Nombre de marca: **Nesma** (07/10/2026). Dominio pendiente.
+- Nicho: moda musulmana/modesta de mujer, Europa + UK.
+- Idioma maestro: español.
 
 **Lee primero `docs/contexto_inicial.md`**: resume la conversación que creó este repo.
 
 ## Reglas
 - Respuestas breves, en español.
 - **Regla muy importante — un chat por carpeta:** al empezar, el usuario dice en qué carpeta trabaja el chat (si no lo dice, preguntarlo). El chat solo escribe en su carpeta y puede leer las demás. Si el usuario pide o habla de algo de otra carpeta, avisarle siempre y decirle qué chat usar. El chat **General** coordina: `docs/`, `CLAUDE.md`, `BITACORA.md` y temas que tocan varias carpetas.
-- Idioma maestro de los textos: español (confirmado 07/10/2026). Las traducciones se hacen en Shopify, no en carpetas por idioma.
+- Las traducciones se hacen en Shopify, no en carpetas por idioma.
 - Toda decisión o cambio va en una línea en `BITACORA.md`, en el mismo commit.
+- **Excepción a la regla de carpeta:** si una decisión afecta a otros sectores, cualquier chat añade una línea en "Decisiones globales" (arriba) y en `BITACORA.md`. Este archivo se carga en todos los chats, así que todos se enteran.
 - Ahorrar créditos: abrir solo la carpeta de la tarea; cada carpeta tiene un `README.md` corto con propósito y estado.
 - Este archivo se carga en cada chat: mantenerlo corto. Lo largo va en `docs/`.
 
