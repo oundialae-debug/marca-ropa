@@ -8,7 +8,7 @@ Marca de ropa de mujer con tienda online (Shopify) que vende en Europa.
 
 ## Reglas
 - Respuestas breves, en español.
-- Idioma maestro de los textos: español (provisional, pendiente de confirmar). Las traducciones se hacen en Shopify, no en carpetas por idioma.
+- Idioma maestro de los textos: español (confirmado 07/10/2026). Las traducciones se hacen en Shopify, no en carpetas por idioma.
 - Toda decisión o cambio va en una línea en `BITACORA.md`, en el mismo commit.
 - Ahorrar créditos: abrir solo la carpeta de la tarea; cada carpeta tiene un `README.md` corto con propósito y estado.
 - Este archivo se carga en cada chat: mantenerlo corto. Lo largo va en `docs/`.

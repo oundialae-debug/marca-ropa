@@ -42,7 +42,7 @@ Ya conectados: Buffer (programar redes), Higgs y ElevenLabs (foto, vídeo, voz).
 **Skill propia:** cuando estén definidas la marca y la clienta, crear con skill-creator una skill con la guía de marca, el tono, las tallas y las reglas.
 
 ## Pendiente
-1. Comprobar los plugins en el chat nuevo.
-2. Confirmar el idioma maestro (propuesto: español).
+1. ~~Comprobar los plugins~~ → los 3 activados (07/10, en chat de claude.ai).
+2. ~~Confirmar el idioma maestro~~ → español, confirmado 07/10.
 3. Volcar en `marca/` lo que el usuario ya tiene de la marca.
 4. Cuando el usuario se ponga manos a la obra: decirle cuántos chats abrir y para qué.
