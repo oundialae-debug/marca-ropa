@@ -8,6 +8,10 @@ Marca de ropa de mujer con tienda online (Shopify) que vende en Europa.
 - Nombre de marca: **Nesma** (07/10/2026). Dominio pendiente.
 - Nicho: moda musulmana/modesta de mujer, Europa + UK.
 - Idioma maestro: español.
+- Identidad de marca aprobada: `marca/identidad.md` (clienta, tono, paleta, glosario). Todos los textos e imágenes la siguen.
+- Diferencia principal: **largos por altura (petite/regular/tall) + tejidos que no transparentan** → afecta a Producto y Producción.
+- Precio: premium accesible (cifras en `producto/`).
+- Pendiente para Mercados: *tu* o *vous* en francés.
 
 **Lee primero `docs/contexto_inicial.md`**: resume la conversación que creó este repo.
 
