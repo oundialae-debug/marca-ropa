@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 07/10/2026: un chat por carpeta; cada README define su chat y su rango; chat General coordina.
 - 07/10/2026: nueva regla: avisar siempre cuando un tema requiera otro chat por carpeta.
 - 07/10/2026: nicho elegido: moda musulmana/modesta de mujer (Europa + UK). Análisis en `mercados/analisis-mercado-modest.md`; nombres en `marca/nombres-propuestos.md`.
 - 07/10/2026: idioma maestro confirmado: español. Plugins de la fase actual activados.
