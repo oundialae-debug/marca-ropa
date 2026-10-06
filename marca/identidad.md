@@ -6,6 +6,7 @@ Base: `mercados/analisis-mercado-modest.md`.
 - **Quién:** mujer musulmana de 20-35 años, nacida o criada en Europa (FR, DE, ES, NL, BE, UK). Trabaja o estudia, compra en el móvil y descubre marcas en TikTok e Instagram.
 - **Qué necesita:** ropa modesta que le quede bien, de buena calidad y con estilo europeo. No quiere elegir entre fast fashion que se rompe y un premium UK caro con envíos lentos.
 - **Qué le frustra:** tallas que no cuadran, tejidos que transparentan, marcas que le hablan como si fuera un estereotipo.
+- **Decisión (07/10):** misma clienta y mismo mensaje en todos los países; no se concentra en 1-2 mercados.
 - **Secundaria:** mujer no musulmana que busca ropa larga, holgada y elegante (modest como estilo).
 
 ## 2. Posicionamiento

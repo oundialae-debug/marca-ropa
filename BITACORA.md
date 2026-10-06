@@ -4,6 +4,7 @@ Una línea por decisión o cambio, la más reciente arriba.
 
 - 07/10/2026: un chat por carpeta; cada README define su chat y su rango; chat General coordina.
 - 07/10/2026: nueva regla: avisar siempre cuando un tema requiera otro chat por carpeta.
+- 07/10/2026: clienta y mensaje únicos para todos los países (no se concentra en 1-2 mercados).
 - 07/10/2026: propuesta de identidad de marca v1 en `marca/identidad.md` (pendiente de aprobar).
 - 07/10/2026: `CLAUDE.md` con sección "Decisiones globales" que cualquier chat puede actualizar.
 - 07/10/2026: nombre de la marca elegido: **Nesma**. Dominio pendiente.
