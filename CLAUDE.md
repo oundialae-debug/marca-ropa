@@ -13,6 +13,7 @@ Marca de ropa de mujer con tienda online (Shopify) que vende en Europa.
 - Precio: premium accesible (cifras en `producto/`).
 - Logo v1 (`marca/logo/logo-color.svg`): "nesma" con la "s" como pliegue terracota; icono = la "s" sola. Archivos en `marca/logo/` → para web, redes y etiquetas.
 - Skill `nesma-guia-marca`: usarla para cualquier texto, anuncio o imagen.
+- Registro de marca (EUIPO + UKIPO, clase 25, ~1.050 €): aplazado hasta tener varias ventas (07/10/2026).
 - Pendiente para Mercados: *tu* o *vous* en francés.
 
 **Lee primero `docs/contexto_inicial.md`**: resume la conversación que creó este repo.
