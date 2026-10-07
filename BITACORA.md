@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 07/10/2026: proveedor fase 1 = CJdropshipping (opción A), muestras antes de vender; mini-stock turco como mejora futura. Criterio 3 de fase ajustado a hiyabs.
 - 07/10/2026: la tienda de fase 1 usa el nombre e identidad Nesma (sin prometer tejidos/largos).
 - 07/10/2026: Producción: comparativa de proveedores de dropshipping v1 (`produccion/proveedores-dropshipping.md`). Opciones: A) CJdropshipping sin stock; B) mini-stock turco (Lonca/Hicabistan). Pendiente decidir y pedir muestras.
 - 07/10/2026: regla global: al crear/abrir la tienda, avisar de volver al chat General para la vigilancia de ventas.
