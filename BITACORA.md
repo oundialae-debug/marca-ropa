@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 07/10/2026: prioridad actual: crear y diseñar la tienda Shopify en privado (chat Web); retocar al llegar la primera colección.
 - 07/10/2026: registro de marca aplazado hasta tener varias ventas (coste ~1.050 € EUIPO+UKIPO clase 25).
 - 07/10/2026: el chat General pasa a ser co-Director de Nesma junto al usuario.
 - 07/10/2026: un chat por carpeta; cada README define su chat y su rango; chat General coordina.
