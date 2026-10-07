@@ -5,6 +5,7 @@ Base: `mercados/analisis-mercado-modest.md`.
 ## Fases (07/10/2026)
 - **Fase 1, validar:** solo hiyabs, en dropshipping desde China y **sin marca propia en el producto**. Esta identidad se aplica solo en lo que se pueda cumplir (tono, glosario, estilo visual).
 - **Fase 2, marca:** cuando el negocio esté validado, se lanza Nesma con toda esta identidad.
+- **Tienda de fase 1 = Nesma** (nombre, logo, paleta, tono). Así la audiencia pasa a fase 2.
 - **En fase 1 no se puede prometer:** tejidos probados, largos por altura ni calidad propia, porque no controlamos el producto. Revisada con STP (strategy-frameworks) y brand-review (Marketing).
 
 ## 1. Clienta ideal

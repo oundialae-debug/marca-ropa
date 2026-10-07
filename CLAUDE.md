@@ -14,7 +14,7 @@ Marca de ropa de mujer con tienda online (Shopify) que vende en Europa.
 - Logo v1 (`marca/logo/logo-color.svg`): "nesma" con la "s" como pliegue terracota; icono = la "s" sola. Archivos en `marca/logo/` → para web, redes y etiquetas.
 - Skill `nesma-guia-marca`: usarla para cualquier texto, anuncio o imagen.
 - Registro de marca (EUIPO + UKIPO, clase 25, ~1.050 €): aplazado hasta tener varias ventas (07/10/2026).
-- **Plan en 2 fases** (`docs/plan-fases.md`): fase 1 dropshipping sin stock (actual): **solo hiyabs, desde China, sin marca propia en el producto**; no prometer tejidos probados ni largos por altura; fase 2 producción propia con largos por altura + tejidos opacos. Web aplazada para no gastar la prueba de Shopify. Si un chat ve que se cumplen los criterios de cambio de fase, avisa al usuario. **Cuando se cree o abra la tienda Shopify, el chat que lo vea avisa al usuario de volver al chat General para conectar Shopify y crear la revisión semanal de ventas.**
+- **Plan en 2 fases** (`docs/plan-fases.md`): fase 1 dropshipping sin stock (actual): **solo hiyabs, desde China, sin marca propia en el producto, pero la tienda se llama Nesma** (logo, paleta y tono de marca); no prometer tejidos probados ni largos por altura; fase 2 producción propia con largos por altura + tejidos opacos. Web aplazada para no gastar la prueba de Shopify. Si un chat ve que se cumplen los criterios de cambio de fase, avisa al usuario. **Cuando se cree o abra la tienda Shopify, el chat que lo vea avisa al usuario de volver al chat General para conectar Shopify y crear la revisión semanal de ventas.**
 - Pendiente para Mercados: *tu* o *vous* en francés.
 
 **Lee primero `docs/contexto_inicial.md`**: resume la conversación que creó este repo.
