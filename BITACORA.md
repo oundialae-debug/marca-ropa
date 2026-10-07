@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 07/10/2026: Producción: comparativa de proveedores de dropshipping v1 (`produccion/proveedores-dropshipping.md`). Opciones: A) CJdropshipping sin stock; B) mini-stock turco (Lonca/Hicabistan). Pendiente decidir y pedir muestras.
 - 07/10/2026: regla global: al crear/abrir la tienda, avisar de volver al chat General para la vigilancia de ventas.
 - 07/10/2026: pendiente al abrir la tienda: conector Shopify + tarea semanal que vigile criterios de fase.
 - 07/10/2026: aprobado plan en 2 fases (dropshipping → producción propia) con criterios de cambio en `docs/plan-fases.md`.
