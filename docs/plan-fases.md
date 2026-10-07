@@ -14,3 +14,6 @@ Avisar al usuario cuando se cumplan **todos**:
 4. **Caja:** beneficio acumulado que cubra una primera tirada pequeña sin endeudarse (cifra en `legal-finanzas/` cuando se sepa).
 
 Cualquier chat que vea estos datos (Operaciones, Campañas, Legal y finanzas) avisa al usuario y remite al chat General.
+
+## Vigilancia automática (pendiente)
+Cuando la tienda esté abierta: conectar Shopify en el chat General y crear una tarea programada semanal que revise estos criterios y avise al usuario.
