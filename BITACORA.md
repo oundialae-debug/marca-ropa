@@ -13,7 +13,7 @@ Una línea por decisión o cambio, la más reciente arriba.
 - 07/10/2026: el chat General pasa a ser co-Director de Nesma junto al usuario.
 - 07/10/2026: un chat por carpeta; cada README define su chat y su rango; chat General coordina.
 - 07/10/2026: nueva regla: avisar siempre cuando un tema requiera otro chat por carpeta.
-- 07/10/2026: dos fases: fase 1 hiyabs dropshipping China sin marca propia (validar); fase 2 marca Nesma completa.
+- 07/10/2026: Marca: fase 1 = solo hiyabs desde China, sin marca propia en el producto; identidad completa y promesas (tejidos/largos) solo en fase 2. Añadido a `marca/identidad.md` y al plan en Decisiones globales.
 - 07/10/2026: skill `nesma-guia-marca` (guía de marca para todos los chats); copia en `marca/skill-guia-marca/`.
 - 07/10/2026: logo v1 en trazos (SVG color, oscuro, una tinta) generado desde la fuente.
 - 07/10/2026: boceto de logo elegido: "s" como pliegue terracota con estela corta; icono = la "s". En `marca/logo/` y en Decisiones globales.
