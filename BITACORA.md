@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 07/10/2026: regla global: al crear/abrir la tienda, avisar de volver al chat General para la vigilancia de ventas.
 - 07/10/2026: pendiente al abrir la tienda: conector Shopify + tarea semanal que vigile criterios de fase.
 - 07/10/2026: aprobado plan en 2 fases (dropshipping → producción propia) con criterios de cambio en `docs/plan-fases.md`.
 - 07/10/2026: modelo inicial dropshipping (sin stock hasta ventas); web aplazada. Búsqueda de proveedor → chat Producción.
