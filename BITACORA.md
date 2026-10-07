@@ -4,6 +4,7 @@ Una línea por decisión o cambio, la más reciente arriba.
 
 - 07/10/2026: un chat por carpeta; cada README define su chat y su rango; chat General coordina.
 - 07/10/2026: nueva regla: avisar siempre cuando un tema requiera otro chat por carpeta.
+- 07/10/2026: logo v1 en trazos (SVG color, oscuro, una tinta) generado desde la fuente.
 - 07/10/2026: boceto de logo elegido: "s" como pliegue terracota con estela corta; icono = la "s". En `marca/logo/` y en Decisiones globales.
 - 07/10/2026: identidad de marca v2 aprobada; diferencia principal: largos por altura + tejidos opacos. Añadida a Decisiones globales.
 - 07/10/2026: clienta y mensaje únicos para todos los países (no se concentra en 1-2 mercados).

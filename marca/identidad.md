@@ -72,5 +72,5 @@ La personalidad es la de una amiga elegante y tranquila que sabe de ropa. Se tut
 La "s" de nesma es un pliegue terracota que cae y termina en estela corta de brisa; esa "s" sola es el icono. Ver `logo/README.md`.
 
 ## Pendiente en marca/
-- Logo final: encargar a diseñador (ver `logo/README.md`).
+- Logo v1 listo; mejora opcional con diseñador (ver `logo/README.md`).
 - Guía de marca final → skill propia (ver `docs/contexto_inicial.md`).
