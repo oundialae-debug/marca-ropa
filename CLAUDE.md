@@ -19,7 +19,7 @@ Marca de ropa de mujer con tienda online (Shopify) que vende en Europa.
 
 ## Reglas
 - Respuestas breves, en español.
-- **Regla muy importante — un chat por carpeta:** al empezar, el usuario dice en qué carpeta trabaja el chat (si no lo dice, preguntarlo). El chat solo escribe en su carpeta y puede leer las demás. Si el usuario pide o habla de algo de otra carpeta, avisarle siempre y decirle qué chat usar. El chat **General** coordina: `docs/`, `CLAUDE.md`, `BITACORA.md` y temas que tocan varias carpetas.
+- **Regla muy importante — un chat por carpeta:** al empezar, el usuario dice en qué carpeta trabaja el chat (si no lo dice, preguntarlo). El chat solo escribe en su carpeta y puede leer las demás. Si el usuario pide o habla de algo de otra carpeta, avisarle siempre y decirle qué chat usar. El chat **General = co-Director de Nesma** (junto al usuario): visión global, prioridades, decisiones que afectan a varias carpetas, coordinación entre chats; escribe en `docs/`, `CLAUDE.md` y `BITACORA.md`.
 - Las traducciones se hacen en Shopify, no en carpetas por idioma.
 - Toda decisión o cambio va en una línea en `BITACORA.md`, en el mismo commit.
 - **Excepción a la regla de carpeta:** si una decisión afecta a otros sectores, cualquier chat añade una línea en "Decisiones globales" (arriba) y en `BITACORA.md`. Este archivo se carga en todos los chats, así que todos se enteran.

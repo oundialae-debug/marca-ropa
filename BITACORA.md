@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 07/10/2026: el chat General pasa a ser co-Director de Nesma junto al usuario.
 - 07/10/2026: un chat por carpeta; cada README define su chat y su rango; chat General coordina.
 - 07/10/2026: nueva regla: avisar siempre cuando un tema requiera otro chat por carpeta.
 - 07/10/2026: skill `nesma-guia-marca` (guía de marca para todos los chats); copia en `marca/skill-guia-marca/`.
