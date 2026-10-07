@@ -68,10 +68,9 @@ La personalidad es la de una amiga elegante y tranquila que sabe de ropa. Se tut
 - **Títulos y logo:** Cormorant Garamond.
 - **Texto y web:** Manrope.
 
-## 7. Logo (concepto)
-- Logotipo en minúsculas: **nesma**, en serif, con el espaciado algo abierto.
-- Símbolo opcional: una línea curva que sugiere a la vez la brisa y el pliegue de una tela. Se usa sola como icono en redes y como favicon.
+## 7. Logo (boceto elegido)
+La "s" de nesma es un pliegue terracota que cae y termina en estela corta de brisa; esa "s" sola es el icono. Ver `logo/README.md`.
 
 ## Pendiente en marca/
-- Bocetos del logo (Higgs).
+- Logo final: encargar a diseñador (ver `logo/README.md`).
 - Guía de marca final → skill propia (ver `docs/contexto_inicial.md`).

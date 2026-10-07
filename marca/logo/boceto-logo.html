@@ -1,0 +1,20 @@
+<!doctype html><meta charset="utf-8"><title>Nesma – boceto logo</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap" rel="stylesheet">
+<style>body{margin:0;padding:24px;background:#eee;font-family:sans-serif}div{border-radius:8px;margin-bottom:12px;max-width:600px}</style>
+<div style="background:#F7F3EC"><svg id="a" viewBox="0 0 400 150"></svg></div>
+<div style="background:#2B2A28"><svg id="b" viewBox="0 0 400 150"></svg></div>
+<script>
+// Boceto: "ne" + s dibujada (pliegue que cae y termina en estela corta de brisa) + "ma". Terracota #B4694A.
+const NS='http://www.w3.org/2000/svg',FS=84,LS=7,BY=88,T='#B4694A';
+function el(t,a,p){const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);p.appendChild(e);return e}
+function draw(id,txt){const svg=document.getElementById(id),cv=document.createElement('canvas').getContext('2d');cv.font=`500 ${FS}px 'Cormorant Garamond'`;
+const xh=cv.measureText('x').actualBoundingBoxAscent,wNe=cv.measureText('ne').width+LS*2,wMa=cv.measureText('ma').width+LS,w=FS*.36,gap=LS,x0=(400-(wNe+w+gap+wMa))/2;
+const tx=(x,s)=>el('text',{x,y:BY,'font-family':"'Cormorant Garamond',serif",'font-size':FS,'font-weight':500,'letter-spacing':LS,fill:txt},svg).textContent=s;
+tx(x0,'ne');const sx=x0+wNe,t=BY-xh,h=xh,X=f=>sx+w*f,Y=f=>t+h*f,sw=FS*.062;
+const P=(d,wd,op)=>el('path',{d,fill:'none',stroke:T,'stroke-width':wd,'stroke-linecap':'round',opacity:op},svg);
+P(`M${X(.88)} ${Y(.14)} C${X(.62)} ${Y(-.06)} ${X(.04)} ${Y(.02)} ${X(.14)} ${Y(.32)} C${X(.24)} ${Y(.58)} ${X(.92)} ${Y(.46)} ${X(.88)} ${Y(.76)} C${X(.84)} ${Y(1.02)} ${X(.42)} ${Y(1.0)} ${X(.34)} ${Y(1.18)} C${X(.28)} ${Y(1.34)} ${X(.46)} ${Y(1.44)} ${X(.8)} ${Y(1.42)}`,sw,1);
+const L=1.9,s=[[.8,1.42],[.8+(L-.8)*.33,1.39],[.8+(L-.8)*.66,1.41],[L,1.36]],ws=[sw*.75,sw*.5,sw*.28],op=[1,.85,.55];
+for(let i=0;i<3;i++){const a=s[i],b=s[i+1];P(`M${X(a[0])} ${Y(a[1])} Q${X((a[0]+b[0])/2)} ${Y((a[1]+b[1])/2+(i%2?-.04:.04))} ${X(b[0])} ${Y(b[1])}`,ws[i],op[i]);}
+tx(sx+w+gap,'ma');}
+document.fonts.load(`500 ${FS}px 'Cormorant Garamond'`).then(()=>{draw('a','#2B2A28');draw('b','#F7F3EC')});
+</script>
