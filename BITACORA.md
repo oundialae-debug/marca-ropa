@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 07/10/2026: aprobado plan en 2 fases (dropshipping → producción propia) con criterios de cambio en `docs/plan-fases.md`.
 - 07/10/2026: modelo inicial dropshipping (sin stock hasta ventas); web aplazada. Búsqueda de proveedor → chat Producción.
 - 07/10/2026: Web: plan de tienda v1 (`web/plan-tienda.md`), tema gratuito Horizon, tienda en privado con contraseña; cuenta pendiente de crear.
 - 07/10/2026: prioridad actual: crear y diseñar la tienda Shopify en privado (chat Web); retocar al llegar la primera colección.
