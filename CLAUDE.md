@@ -7,6 +7,7 @@ Marca de ropa de mujer con tienda online (Shopify) que vende en Europa.
 ## Decisiones globales (afectan a todos los sectores)
 - Nombre de marca: **Nesma** (07/10/2026). Dominio pendiente.
 - Nicho: moda musulmana/modesta de mujer, Europa + UK.
+- **Dos fases:** fase 1 = solo hiyabs en dropshipping desde China, sin marca propia en el producto, para validar. Fase 2 = marca Nesma completa. La diferencia (largos/tejidos probados) y la identidad completa son de fase 2.
 - Idioma maestro: español.
 - Identidad de marca aprobada: `marca/identidad.md` (clienta, tono, paleta, glosario). Todos los textos e imágenes la siguen.
 - Diferencia principal: **largos por altura (petite/regular/tall) + tejidos que no transparentan** → afecta a Producto y Producción.

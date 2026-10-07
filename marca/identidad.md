@@ -1,6 +1,11 @@
 # Identidad de marca Nesma — v2 APROBADA (07/10/2026)
 
-Base: `mercados/analisis-mercado-modest.md`. Revisada con STP (strategy-frameworks) y brand-review (Marketing).
+Base: `mercados/analisis-mercado-modest.md`.
+
+## Fases (07/10/2026)
+- **Fase 1, validar:** solo hiyabs, en dropshipping desde China y **sin marca propia en el producto**. Esta identidad se aplica solo en lo que se pueda cumplir (tono, glosario, estilo visual).
+- **Fase 2, marca:** cuando el negocio esté validado, se lanza Nesma con toda esta identidad.
+- **En fase 1 no se puede prometer:** tejidos probados, largos por altura ni calidad propia, porque no controlamos el producto. Revisada con STP (strategy-frameworks) y brand-review (Marketing).
 
 ## 1. Clienta ideal
 - **Quién:** mujer musulmana de 20-35 años, nacida o criada en Europa (FR, DE, ES, NL, BE, UK). Trabaja o estudia, compra en el móvil y descubre marcas en TikTok e Instagram.
