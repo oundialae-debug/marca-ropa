@@ -73,4 +73,4 @@ La "s" de nesma es un pliegue terracota que cae y termina en estela corta de bri
 
 ## Pendiente en marca/
 - Logo v1 listo; mejora opcional con diseñador (ver `logo/README.md`).
-- Guía de marca final → skill propia (ver `docs/contexto_inicial.md`).
+- Skill `nesma-guia-marca` creada (copia en `skill-guia-marca/`).

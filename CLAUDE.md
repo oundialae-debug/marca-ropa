@@ -12,6 +12,7 @@ Marca de ropa de mujer con tienda online (Shopify) que vende en Europa.
 - Diferencia principal: **largos por altura (petite/regular/tall) + tejidos que no transparentan** → afecta a Producto y Producción.
 - Precio: premium accesible (cifras en `producto/`).
 - Logo v1 (`marca/logo/logo-color.svg`): "nesma" con la "s" como pliegue terracota; icono = la "s" sola. Archivos en `marca/logo/` → para web, redes y etiquetas.
+- Skill `nesma-guia-marca`: usarla para cualquier texto, anuncio o imagen.
 - Pendiente para Mercados: *tu* o *vous* en francés.
 
 **Lee primero `docs/contexto_inicial.md`**: resume la conversación que creó este repo.
