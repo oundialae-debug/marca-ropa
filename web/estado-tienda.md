@@ -9,15 +9,15 @@ Adaptada a la **fase 1** (`docs/plan-fases.md`): solo hiyabs (CJdropshipping), i
 - **Colecciones automáticas** (vacías): Hiyabs (tipo de producto `Hiyab`) y Novedades (etiqueta `novedad`). Abayas y Vestidos borradas (fase 2).
 - **Páginas:** Sobre Nesma, Preguntas frecuentes (envíos y devoluciones por confirmar), Contacto. "Guía de tallas y largos" creada pero **oculta** hasta la fase 2.
 - **Menús:** principal (Novedades, Hiyabs, Sobre Nesma) y pie (Sobre Nesma, Preguntas frecuentes, Contacto, Buscar).
-- Logo y favicon en PNG: `web/assets/`.
+- Logo y favicon subidos a Shopify (Archivos) y puestos en el tema "Nesma v1". Originales en PNG: `web/assets/`.
 
 ## Lo que hace la usuaria a mano (la API no lo permite)
 1. Publicar el tema "Nesma v1": *Tienda online → Temas → Nesma v1 → … → Publicar*.
-2. Subir logo y favicon: *Personalizar → Configuración del tema → Logo* (`logo-nesma-600.png`) y *Favicon* (`favicon-nesma-96.png`).
-3. Cambiar el nombre de la tienda "Mi tienda" → **Nesma** en *Configuración → Detalles de la tienda*. Revisar el email de la tienda.
-4. Barra de anuncios: dejarla vacía hasta que Operaciones confirme los envíos.
+2. Cambiar el nombre de la tienda "Mi tienda" → **Nesma** en *Configuración → Detalles de la tienda*. Revisar el email de la tienda.
+3. Barra de anuncios: dejarla vacía hasta que Operaciones confirme los envíos.
 
 ## Pendientes y avisos
+- Para que el chat Web suba imágenes, necesita un enlace público (p. ej. fotos de CJ). Publicar temas y cambiar el nombre de la tienda solo se puede hacer a mano.
 - Contraste: texto crema sobre terracota = 3,75:1 (accesibilidad AA pide 4,5:1 en texto pequeño). Opción: terracota más oscura solo para botones (`#9E5A3E` = 4,76:1). Lo decide el chat **Marca**.
 - Revisión semanal de ventas y conexión Shopify para fase 1 → chat **General** (regla global).
 - Fotos de portada → chat **Contenido**. Hiyabs y precios → **Producción**/**Producto**. Envíos y devoluciones → **Operaciones**. Políticas → **Legal-finanzas**.
