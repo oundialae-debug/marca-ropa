@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 10/10/2026: "sin muestras" aplica solo a fase 1; fase 2 = calidad comprobada y comunicación sincera.
 - 10/10/2026: fase 1 sin muestras (decide el usuario, riesgos explicados); elegir por descripción y reseñas; la marca vende → precio con buen margen. Sustituye a "muestras antes de vender".
 - 10/10/2026: CJ no carga en móvil → se añade DSers (AliExpress) como canal de proveedor junto a CJ; los hiyabs se importan a Shopify como borrador con tipo `Hiyab` y Producción los revisa vía Shopify. Alibaba descartado (mínimos = stock).
 - 10/10/2026: Web: logo y favicon subidos a Shopify y puestos en el tema "Nesma v1" (el repo estuvo en público unos minutos para poder subirlos).

@@ -4,7 +4,7 @@
 Validar demanda y marca sin stock. **Solo hiyabs** vía **CJdropshipping** (opción A, 07/10/2026) sin muestras (10/10/2026): se elige por descripción y reseñas del proveedor. Plan de mejora con ventas: mini-stock turco (Lonca/Hicabistan).
 
 ## Fase 2 — Producción propia en tiradas pequeñas
-Con nuestra diferencia: largos petite/regular/tall + tejidos opacos.
+Con nuestra diferencia: largos petite/regular/tall + tejidos opacos. Calidad comprobada (muestras y pruebas) y comunicación 100 % sincera: lo que se promete se ha probado.
 
 ## Cuándo pasar a fase 2 (criterios provisionales, revisar con datos reales)
 Avisar al usuario cuando se cumplan **todos**:
