@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 10/10/2026: CJ no carga en móvil → se añade DSers (AliExpress) como canal de proveedor junto a CJ; los hiyabs se importan a Shopify como borrador con tipo `Hiyab` y Producción los revisa vía Shopify. Alibaba descartado (mínimos = stock).
 - 10/10/2026: Web: logo y favicon subidos a Shopify y puestos en el tema "Nesma v1" (el repo estuvo en público unos minutos para poder subirlos).
 - 10/10/2026: Web: Shopify conectado; tema "Nesma v1" (Horizon con la marca, sin publicar), colecciones Hiyabs y Novedades, páginas y menús adaptados a fase 1 (sin prometer largos ni tejidos). Ver `web/estado-tienda.md`.
 - 07/10/2026: búsqueda de hiyabs en CJ en pausa hasta usar la app de escritorio vinculada al ordenador (navegador); desde la nube CJ bloquea el acceso. Se retoma en el chat Producción.
