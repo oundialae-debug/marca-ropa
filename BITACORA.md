@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 10/10/2026: Web: Shopify conectado; tema "Nesma v1" (Horizon con la marca, sin publicar), colecciones Hiyabs y Novedades, páginas y menús adaptados a fase 1 (sin prometer largos ni tejidos). Ver `web/estado-tienda.md`.
 - 07/10/2026: búsqueda de hiyabs en CJ en pausa hasta usar la app de escritorio vinculada al ordenador (navegador); desde la nube CJ bloquea el acceso. Se retoma en el chat Producción.
 - 07/10/2026: proveedor fase 1 = CJdropshipping (opción A), muestras antes de vender; mini-stock turco como mejora futura. Criterio 3 de fase ajustado a hiyabs.
 - 07/10/2026: la tienda de fase 1 usa el nombre e identidad Nesma (sin prometer tejidos/largos).
