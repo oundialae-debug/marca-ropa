@@ -1,7 +1,7 @@
 # Plan en dos fases (aprobado 07/10/2026)
 
 ## Fase 1 — Dropshipping (actual)
-Validar demanda y marca sin stock. **Solo hiyabs** vía **CJdropshipping** (opción A, 07/10/2026), muestras antes de vender. Plan de mejora con ventas: mini-stock turco (Lonca/Hicabistan).
+Validar demanda y marca sin stock. **Solo hiyabs** vía **CJdropshipping** (opción A, 07/10/2026) sin muestras (10/10/2026): se elige por descripción y reseñas del proveedor. Plan de mejora con ventas: mini-stock turco (Lonca/Hicabistan).
 
 ## Fase 2 — Producción propia en tiradas pequeñas
 Con nuestra diferencia: largos petite/regular/tall + tejidos opacos.

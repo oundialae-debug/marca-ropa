@@ -15,6 +15,7 @@ Marca de ropa de mujer con tienda online (Shopify) que vende en Europa.
 - Skill `nesma-guia-marca`: usarla para cualquier texto, anuncio o imagen.
 - Registro de marca (EUIPO + UKIPO, clase 25, ~1.050 €): aplazado hasta tener varias ventas (07/10/2026).
 - **Plan en 2 fases** (`docs/plan-fases.md`): fase 1 dropshipping sin stock (actual): **solo hiyabs, vía CJdropshipping o DSers/AliExpress, sin marca propia en el producto, pero la tienda se llama Nesma** (logo, paleta y tono de marca); no prometer tejidos probados ni largos por altura; fase 2 producción propia con largos por altura + tejidos opacos. Web aplazada para no gastar la prueba de Shopify. Si un chat ve que se cumplen los criterios de cambio de fase, avisa al usuario. **Cuando se cree o abra la tienda Shopify, el chat que lo vea avisa al usuario de volver al chat General para conectar Shopify y crear la revisión semanal de ventas.**
+- **Fase 1 sin muestras** (10/10/2026, decisión del usuario): se elige por la descripción del proveedor y sus reseñas con fotos de clientas. Estrategia: **la clienta compra la marca** → precio con **buen margen**, no el más barato. No prometer en textos calidad no comprobada.
 - Pendiente para Mercados: *tu* o *vous* en francés.
 - Shopify creada (10/10/2026, en privado): las colecciones se llenan solas por **tipo de producto** `Hiyab` y la etiqueta `novedad`. Estado en `web/estado-tienda.md`.
 
