@@ -55,6 +55,12 @@ Los precios de la tabla de abajo (×3 sin impuestos) quedan **sustituidos** por 
 | Instant jersey MSL352 80×70 | casi sin stock (1-16 por color) | 11262957650263 |
 | Inner instant MSL305 (×2) | casi sin stock y repetidos | 11262957715799, 11262957814103 |
 | Pull-on modal MSL241 | sin stock (8 unidades en total) | 11262958076247 |
+| *Tanda 2 (10/10/2026, 03:41):* | | |
+| Satén poliéster WJA67 175×80, 115 g | casi sin stock (0-5 por color) | 11262990123351 |
+| BS082 jersey algodón (LOVOSME) | mismo modelo que el #3 BS082 pero más caro (6,0-6,4 € vs 4,4 €); **se guarda como proveedor de reserva** si LAVEN se queda sin stock (1.000 ud./color) | 11262990057815 |
+| Jersey MSL190 170×60 | casi sin stock (5 por color) | 11262990025047 |
+| Jersey MSL270 175×80 | poco stock (9-18 por color) y más caro (8,2-8,4 €) | 11262989992279 |
+| JTVOVO WJ5507 "28 colores" | el título dice jersey de modal pero la ficha dice poliéster *broadcloth* con "diamonds": riesgo de devolución | 11262989959511 |
 
 ## ⚠️ Pendiente antes de publicar
 1. **Reseñas con fotos:** AliExpress bloquea la lectura desde la nube. Pendiente de leerlas con el navegador cuando el chat esté vinculado al ordenador (app de escritorio).
