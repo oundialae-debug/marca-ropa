@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 10/10/2026: Producción: documentación oficial de la API (AE-Dropshipper) descargada y resumida en `produccion/api/`. Búsqueda por imagen probada: amplía mucho el catálogo. La cuenta puede pedir el beneficio `wholesale-benefit` (decidir en General). Crear pedidos por API: prohibido sin permiso.
 - 10/10/2026: Producto: precios v2 aplicados en Shopify (borrador): hiyabs 19,90/22,90/26,90 €, set GELMOIN 32,90 €, gorros 12,90 € (propuesta: no publicarlos, dan pérdida). Pack = 3 del mismo modelo −15 % (9 descuentos automáticos). Colores con <100 ud. quitados; títulos y textos en español. Envío propuesto: 3,95 € y gratis desde 49 € (chat Web). Detalle en `producto/margenes.md`.
 - 10/10/2026: Producción: verificación final con datos frescos: 9 hiyabs + 2 gorros interiores en Shopify (borrador, enlazados en DSers), sin duplicados. Solo DE bloqueado en 2 modelos. Listo para el chat Producto.
 - 10/10/2026: Producción: revisión final de la tienda: 8 hiyabs en borrador (enlazados en DSers) + 2 gorros interiores como complemento; crinkle duplicado archivado; falta importar 1 (jersey arrugado SANMAIHUA). Tabla para Producto al final de `produccion/hiyabs-api.md`.
