@@ -1,3 +1,5 @@
+> ⚠️ **Sustituido por `hiyabs-api.md` (10/10/2026, datos de la API).** Este archivo queda como histórico.
+
 # Selección de hiyabs fase 1 (10/10/2026)
 
 Origen: 19 hiyabs importados con DSers (AliExpress) a Shopify, todos en **borrador**.

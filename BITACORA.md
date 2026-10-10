@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 10/10/2026: Producción: Shopify actualizado con datos de la API: 4 hiyabs en borrador (crinkle Vora creado, modal HAOYAN, jersey Laven, modal liso con aviso); 21 archivados con etiqueta `descartado`. Crinkle pendiente de enlazar en DSers.
 - 10/10/2026: Producción: API AliExpress funcionando. Hiyabs Choice: envío 1,99 € por pedido (1-3 ud.) a UK/FR/DE/NL/IT → packs rentables. Finalistas en `produccion/hiyabs-api.md`.
 - 10/10/2026: Producción: conexión a la API oficial de AliExpress (app Dropshipping "Nesma Sourcing", App Key 552384) vía GitHub Actions (`.github/workflows/aliexpress-api.yml` + `produccion/api/`). La App Secret va solo como secreto de GitHub; el token se guarda cifrado.
 - 10/10/2026: Producción: AliExpress con envío desde la UE no tiene hiyabs útiles (revendedores a 31-67 € sin ventas). Selección fase 1 cerrada: 9 hiyabs desde China (DSers). Pendiente: precios en chat Producto; mirar almacén UE de LAVEN en el primer pedido.

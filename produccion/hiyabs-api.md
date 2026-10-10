@@ -29,3 +29,22 @@ No para estos hiyabs (10/10/2026): la API de envíos devuelve **"ship_from: CN"*
 
 ## Cómo repetir la consulta
 `produccion/api/` + `.github/workflows/aliexpress-api.yml`: se escribe la consulta en `peticion.json`, GitHub la ejecuta y deja la respuesta en `resultado.json`.
+
+## Estado en Shopify (10/10/2026, 06:15) — fuente de verdad
+Revisado el **stock por color** con la API (≥100 ud. por color = disponible).
+
+| en tienda (borrador, tipo Hiyab + novedad) | ID AliExpress | Shopify ID | colores con stock | nota |
+|---|---|---|---|---|
+| Crinkle de rayón (Vora) — **creado por Producción** | 1005006645829730 | 11263097733463 | 44 (incl. beige, gris, camello, café) | ✅ el más completo |
+| Modal 170×60 (HAOYAN) | 1005006319086970 | 11262959223127 | 14 (crema, gris hielo, azul marino, café, blanco…) | ✅ |
+| Jersey premium (Laven Official Store) | 1005008076898965 | 11262957846871 | 23 (beige, crema, gris claro, azul marino, camello…) | ✅ nota 4,4, 700+ ventas, Choice 1,99 € |
+| Modal/rayón liso (Hijab Glamour) | 1005007100433982 | 11262957683031 | 10, sin negro ni beige | ⚠️ colores limitados |
+
+**Descartados por stock:** jersey SANMAIHUA (1005005178341043) y jersey algodón HAOYAN (1005006919742077): los colores neutros tienen 0-20 ud.
+
+**Archivados** (estado *Archivado*, etiqueta `descartado`, reversible): los otros 21 productos importados con DSers. Incluye los 7 ✅ de la selección v1 que no se han podido verificar con la API (sin ID de AliExpress conocido) y el crinkle VS723 duplicado.
+
+**Pendiente:**
+- El crinkle creado por Producción **no está enlazado en DSers**: antes de vender, en DSers → *Mapping* del producto, pegar `https://www.aliexpress.com/item/1005006645829730.html`. Los SKU de Shopify llevan el ID de variante de AliExpress (`AE-producto-sku`).
+- Precio de venta = coste provisional; lo fija el chat **Producto**. El campo "coste por artículo" ya tiene el coste del proveedor.
+- Faltan negro y blanco/crema en jersey con buen stock: buscar con la API.
