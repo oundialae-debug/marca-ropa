@@ -58,3 +58,17 @@ Riesgo: si AliExpress divide el pedido en varios paquetes, se pagan varios aranc
 2. **Variantes que no son del mismo producto:** YW125 trae 2 variantes ZH434 a 7,00 € (beneficio 5,10 €) y VS723 trae ~38 variantes CXT0824 a 7,65-9,73 € (beneficio hasta 5,78 €). Propuesta: quitarlas o tratarlas como producto aparte.
 3. **IVA doble:** AliExpress cobra IVA IOSS y la tienda también cobra IVA a la clienta. Aquí el IVA de AliExpress cuenta como coste (no recuperable). Si se puede deducir, cada hiyab gana unos 1,6-2,2 € más → chat **Legal-finanzas**.
 4. Bajada de precios a 19,90-24,90 € (idea de `seleccion-hiyabs.md`): todos quedarían en rojo (2-5 €). No recomendado en España/UE.
+
+## Comprobación con el mercado (10/10/2026)
+Precios de hiyab jersey en la competencia:
+- **Tiendas de la UE (FR, ES, NL):** 4-15 € el jersey "premium"; los más caros 19-20 €. Ejemplos: Mon Hijab Pas Cher 7,50-14,90 € · Neyssa 6,95-19,95 € · Alanoor (ES) 12,99-19,99 € · Sabr Mastour 3,99 €. Envío gratis desde 69-100 €.
+- **Marcas premium UK/EE. UU.:** Aab jersey 19 £ y modal 24 £ (vende en John Lewis) · Haute Hijab 25 $.
+- No se han encontrado packs ×3 con precio público en las marcas premium.
+
+**Conclusión:**
+- En la UE, 24,90-29,90 € por un hiyab sin marca está **por encima incluso de las tiendas premium**. Al precio del mercado (~15 €), cada venta suelta **pierde dinero**, porque el coste puesto en España ya es 12-15 €.
+- El pack a 59,90 € (20 €/ud) también queda caro. Un pack a 44,90 € (15 €/ud) deja solo 7-12 €.
+- En UK los precios de las marcas (19-24 £) y el coste sin arancel (8-11 €) sí dejan margen, pero se compite contra marcas con nombre.
+- **El problema es el coste de entrada a la UE** (arancel de 3 € + IVA por envío), no el precio. Los precios de este archivo **no se aprueban** hasta revisar el proveedor.
+
+Fuentes: monhijabpascher.com, neyssa-shop.com, alanoorcollection.com, sabrmastour.com, johnlewis.com (Aab), hautehijab.com.

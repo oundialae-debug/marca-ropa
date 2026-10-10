@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 10/10/2026: Producto: comprobación de precios con la competencia: en la UE el jersey se vende a 4-20 €, por debajo del coste puesto de AliExpress (12-15 €). Precios propuestos en espera; decidir en General si fase 1 empieza por UK o con proveedor con stock en la UE.
 - 10/10/2026: Producto: márgenes de los 8 hiyabs ✅ con costes reales de Shopify (`producto/margenes.md`): precios propuestos 24,90/27,90/29,90 €, 5 de 8 dejan <8 €; propuesta packs ×3 (59,90-69,90 €), envío 3,95 € y gratis desde 49 €. Pendiente de OK.
 - 10/10/2026: Producción: checkout real AliExpress confirma envío 1,99 €, aranceles 3,63 € cobrados al pagar (sin sorpresas en la entrega) y entrega 8-15 días.
 - 10/10/2026: Producción: coste real de los hiyabs con IVA (IOSS) + arancel UE 3 €/línea → ×3 da 35-52 €; propuesta ×2,5 o packs para el chat Producto. Ver `produccion/seleccion-hiyabs.md`.
