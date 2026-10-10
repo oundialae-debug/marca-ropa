@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 10/10/2026: Producción: revisión final de la tienda: 8 hiyabs en borrador (enlazados en DSers) + 2 gorros interiores como complemento; crinkle duplicado archivado; falta importar 1 (jersey arrugado SANMAIHUA). Tabla para Producto al final de `produccion/hiyabs-api.md`.
 - 10/10/2026: Producción: corregido error de archivo: crinkle y jersey liso ya estaban importados (recuperados). 5 hiyabs en tienda, 6 por importar.
 - 10/10/2026: Producción: criterio relajado (tienda buena aunque el modelo tenga pocas reseñas). Lista final de 11 hiyabs (3 en tienda + 8 por importar) en `produccion/hiyabs-api.md`.
 - 10/10/2026: Producción: catálogo API revisado entero: +1 premium (set GELMOIN) y +1 reserva. Total 6. Para 10-12, verificar con la API enlaces que aporte la usuaria.
