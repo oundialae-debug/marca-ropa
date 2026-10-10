@@ -1,130 +1,178 @@
 {
- "id": 5,
+ "id": 6,
  "llamadas": [
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005009107242857",
-    "ship_to_country": "ES",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"ES\", \"productId\": \"1005009107242857\", \"selectedSkuId\": \"12000047938529905\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005007100433982",
-    "ship_to_country": "ES",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"GB\", \"productId\": \"1005009107242857\", \"selectedSkuId\": \"12000047938529905\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005005178341043",
-    "ship_to_country": "ES",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 2, \"shipToCountry\": \"ES\", \"productId\": \"1005009107242857\", \"selectedSkuId\": \"12000047938529905\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005008076898965",
-    "ship_to_country": "ES",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"ES\", \"productId\": \"1005007100433982\", \"selectedSkuId\": \"12000042584952011\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005006919742077",
-    "ship_to_country": "ES",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"GB\", \"productId\": \"1005007100433982\", \"selectedSkuId\": \"12000042584952011\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005006645829730",
-    "ship_to_country": "ES",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 2, \"shipToCountry\": \"ES\", \"productId\": \"1005007100433982\", \"selectedSkuId\": \"12000042584952011\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005006319086970",
-    "ship_to_country": "ES",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"ES\", \"productId\": \"1005005178341043\", \"selectedSkuId\": \"12000031989962051\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005006421100014",
-    "ship_to_country": "ES",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"GB\", \"productId\": \"1005005178341043\", \"selectedSkuId\": \"12000031989962051\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005011722159135",
-    "ship_to_country": "ES",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 2, \"shipToCountry\": \"ES\", \"productId\": \"1005005178341043\", \"selectedSkuId\": \"12000031989962051\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005011536840709",
-    "ship_to_country": "ES",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"ES\", \"productId\": \"1005006645829730\", \"selectedSkuId\": \"12000037913431885\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "33055642968",
-    "ship_to_country": "ES",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"GB\", \"productId\": \"1005006645829730\", \"selectedSkuId\": \"12000037913431885\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005002864337827",
-    "ship_to_country": "ES",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 2, \"shipToCountry\": \"ES\", \"productId\": \"1005006645829730\", \"selectedSkuId\": \"12000037913431885\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005010346019821",
-    "ship_to_country": "ES",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"ES\", \"productId\": \"1005006319086970\", \"selectedSkuId\": \"12000036745559760\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005007700644107",
-    "ship_to_country": "ES",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"GB\", \"productId\": \"1005006319086970\", \"selectedSkuId\": \"12000036745559760\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
+   }
+  },
+  {
+   "method": "aliexpress.ds.freight.query",
+   "params": {
+    "queryDeliveryReq": "{\"quantity\": 2, \"shipToCountry\": \"ES\", \"productId\": \"1005006319086970\", \"selectedSkuId\": \"12000036745559760\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
+   }
+  },
+  {
+   "method": "aliexpress.ds.freight.query",
+   "params": {
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"ES\", \"productId\": \"1005011722159135\", \"selectedSkuId\": \"12000056353173805\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
+   }
+  },
+  {
+   "method": "aliexpress.ds.freight.query",
+   "params": {
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"GB\", \"productId\": \"1005011722159135\", \"selectedSkuId\": \"12000056353173805\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
+   }
+  },
+  {
+   "method": "aliexpress.ds.freight.query",
+   "params": {
+    "queryDeliveryReq": "{\"quantity\": 2, \"shipToCountry\": \"ES\", \"productId\": \"1005011722159135\", \"selectedSkuId\": \"12000056353173805\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
+   }
+  },
+  {
+   "method": "aliexpress.ds.freight.query",
+   "params": {
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"ES\", \"productId\": \"1005006919742077\", \"selectedSkuId\": \"12000038727625372\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
+   }
+  },
+  {
+   "method": "aliexpress.ds.freight.query",
+   "params": {
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"GB\", \"productId\": \"1005006919742077\", \"selectedSkuId\": \"12000038727625372\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
+   }
+  },
+  {
+   "method": "aliexpress.ds.freight.query",
+   "params": {
+    "queryDeliveryReq": "{\"quantity\": 2, \"shipToCountry\": \"ES\", \"productId\": \"1005006919742077\", \"selectedSkuId\": \"12000038727625372\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "GELMOIN",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "ES",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "GELMOIN",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "ES",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "LAVEN hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "ES",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "LAVEN hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "ES",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2"
    }
   }
  ]
