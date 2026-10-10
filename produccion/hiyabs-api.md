@@ -109,3 +109,29 @@ Todos en **borrador**, importados con DSers (enlazados al proveedor), tipo `Hiya
 **Archivados** (etiqueta `descartado`; `duplicado` o `copia-manual` donde aplica): el resto. No borrar sin revisar.
 
 **Para Producto:** precio, packs (mismo modelo = 1 envío y 1 arancel), qué colores mostrar (quitar los agotados), títulos y textos con la skill de marca. No prometer «modal», «algodón» ni «no transparenta» sin comprobar.
+
+## ✅ VERIFICACIÓN FINAL (10/10/2026 06:55) — sustituye a las tablas anteriores
+Datos frescos de la API (stock, precio con IVA, envío a UK/FR/DE/NL/IT con 1 y 3 ud.) y comprobación en Shopify por fotos: **cada producto de la tienda corresponde a un anuncio distinto, sin duplicados ni huecos**. Todos en borrador, importados con DSers.
+
+Los errores `DELIVERY_SERVICE_EXCEPTION` de la API son puntuales (el mismo producto sí envía al mismo país con otra cantidad). Bloqueos reales: solo **Alemania** para el jersey arrugado y el modal liso.
+
+### 9 hiyabs (tipo `Hiyab`, etiqueta `novedad`)
+| hiyab | tienda (nota) | Shopify ID | AliExpress ID | nota (reseñas) | colores con stock | de ellos neutros | coste producto | coste 1 ud. UE | coste 1 ud. UK | pack 3 iguales UE (por ud.) | envía a | días |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Crinkle de rayón | Yiwu Vora (4,6) | 11263107072343 | 1005006645829730 | 4,8 (65) | 44 | 14 | 8.79-10.59 € | 16.21 € | 12.58 € | 12.46 € | los 5 | 7-13 |
+| Crinkle de algodón grande | RUNMEIFA Official (4,7) | 11263107137879 | 1005006411486233 | 4,5 (11) | 54 | 20 | 4.49-4.89 € | 10.51 € | 6.88 € | 6.76 € | los 5 | 6-13 |
+| Algodón liso (sarga) | RUNMEIFA Official (4,7) | 11263106974039 | 33055642968 | 4,8 (27) | 22 | 11 | 4.59-5.49 € | 11.11 € | 7.48 € | 7.36 € | los 5 | 6-13 |
+| Jersey liso | SANMAIHUA Hijab Store (4,7) | 11262958141783 | 4000022442764 | 5,0 (3) | 30 | 11 | 6.39-8.19 € | 13.81 € | 10.18 € | 10.06 € | los 5 | 6-13 |
+| Jersey arrugado de algodón 90×180 | SANMAIHUA Official (4,7) | 11263109202263 | 1005005633125258 | 4,3 (4) | 18 | 11 | 5.29-5.59 € | 11.21 € | 7.58 € | 7.46 € | UK, FR, NL, IT (**no DE**) | 6-13 |
+| Jersey premium | Laven Official (4,4) | 11262957846871 | 1005008076898965 | 4,4 (183) | 23 | 10 | 5.49-6.89 € | 12.51 € | 8.88 € | 8.76 € | los 5 | 6-13 |
+| Modal 170×60 | HAOYAN (4,7) | 11262959223127 | 1005006319086970 | 4,7 (145) | 14 | 8 | 6.99-7.59 € | 13.21 € | 9.58 € | 9.46 € | los 5 | 7-12 |
+| Modal/rayón liso 190×85 | Hijab Glamour (4,5) | 11262957683031 | 1005007100433982 | 4,7 (250) | 10 | 5 | 7.99-8.99 € | 14.61 € | 10.98 € | 10.86 € | UK, FR, NL, IT (**no DE**) | 6-13 |
+| Set hiyab + gorro (premium) | GELMOIN (4,9) | 11263107105111 | 1005009107242857 | 4,9 (577) | 66 | 26 | 7.99-7.99 € | 17.99 € | 14.36 € | 13.55 € | los 5 (envío 6-8,5 €/1 ud.; 12-16 €/3 ud.) | 7-17 |
+
+### 2 complementos (tipo `Gorro interior`, etiqueta `complemento`)
+| producto | Shopify ID | AliExpress ID | nota | colores con stock | coste | envío |
+|---|---|---|---|---|---|---|
+| Gorro interior triangular de algodón (Forever Scarf) | 11263107039575 | 1005008208535051 | 4,7 (29) | 10 | 7,29-7,89 € | 1,99 € los 5 |
+| Gorro de cobertura completa (reserva) | 11263107006807 | 1005002864337827 | 5,0 (9) | 16 | 4,29 € | 2,15-2,63 € (1 ud.), 3,27-4,65 € (3 ud.); hasta 17 días |
+
+**Notas para Producto:** precios actuales en Shopify = coste de DSers (provisional). Pedidos con varios hiyabs del **mismo anuncio** = 1 envío y 1 arancel (RUNMEIFA tiene 2 modelos). Material real: la mayoría son poliéster aunque el título diga modal/algodón; el set GELMOIN dice «thin» en su título → no prometer opacidad. Quitar en Shopify los colores agotados (ver «colores con stock»).
