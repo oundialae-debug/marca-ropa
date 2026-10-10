@@ -61,7 +61,7 @@ def main():
                 params = dict(c.get("params") or {})
                 if c.get("image_url"):  # búsqueda por imagen: el runner descarga la foto y la pasa en base64
                     import base64
-                    img = urllib.request.urlopen(c["image_url"], timeout=60).read()
+                    img = urllib.request.urlopen(urllib.request.Request(c["image_url"], headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36", "Referer": "https://www.aliexpress.com/"}), timeout=60).read()
                     p0 = dict(params.get("param0") or {})
                     p0["image_base64"] = base64.b64encode(img).decode()
                     params["param0"] = json.dumps(p0)

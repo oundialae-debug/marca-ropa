@@ -1,10 +1,6 @@
 {
- "id": 20,
+ "id": 21,
  "llamadas": [
-  {
-   "method": "aliexpress.ds.member.benefit.get",
-   "params": {}
-  },
   {
    "method": "aliexpress.ds.image.searchV2",
    "image_url": "https://ae01.alicdn.com/kf/Sa8ce3ad7d0b047f4a74c0ef89d620d472.png",
@@ -31,12 +27,6 @@
      "sort_order": "desc",
      "ship_to": "FR"
     }
-   }
-  },
-  {
-   "method": "aliexpress.ds.category.tree.get",
-   "params": {
-    "lang": "es"
    }
   }
  ]
