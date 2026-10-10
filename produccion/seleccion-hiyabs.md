@@ -10,6 +10,26 @@ Criterios (`CLAUDE.md`, fase 1 sin muestras): reseñas con fotos de clientas · 
 - **Precio** = coste total × 3, redondeado a ,90 (propuesta: el precio final lo fija el chat **Producto**).
 - **Margen** = precio − coste total. Entre paréntesis, margen tras quitar el IVA español del 21 %.
 
+## Coste real a la puerta (actualizado 10/10/2026)
+El cálculo de arriba se quedaba corto. Coste real por hiyab enviado solo:
+- **España/UE:** (producto + 2 € envío) × 1,21 IVA (AliExpress lo cobra al pagar, IOSS) **+ 3,63 €** (arancel UE de 3 € por línea desde el 1/7/2026, + IVA). Puede haber además tasa de gestión del transportista si el pedido no va con aranceles pagados (DDP): **comprobar en el primer pedido**.
+- **UK:** (producto + 2 €) × 1,20 IVA UK (cobrado por AliExpress en pedidos ≤ 135 £). Sin el arancel de 3 €.
+- **Plazo:** envío estándar/Choice a España, mediana ~12 días (8 de cada 10 entre 10 y 25 días). Cumple ≤15 días en la mayoría, no siempre.
+
+| modelo | coste DSers | coste real ES | coste real UK | precio ×3 (ES) | margen | precio ×2,5 (ES) | margen |
+|---|---|---|---|---|---|---|---|
+| YW125 | 4,95 € | 12,04 € | 8,34 € | 36,90 € | 24,86 € | 30,90 € | 18,86 € |
+| VS527D | 7,39 € | 14,99 € | 11,27 € | 44,90 € | 29,91 € | 37,90 € | 22,91 € |
+| BS082 | 4,43 € | 11,41 € | 7,72 € | 34,90 € | 23,49 € | 28,90 € | 17,49 € |
+| VS723 | 9,32 € | 17,33 € | 13,58 € | 51,90 € | 34,57 € | 43,90 € | 26,57 € |
+| VS983 | 5,84 € | 13,12 € | 9,41 € | 39,90 € | 26,78 € | 32,90 € | 19,78 € |
+| WJ5200B | 5,41 € | 12,60 € | 8,89 € | 37,90 € | 25,30 € | 31,90 € | 19,30 € |
+| GORMEYPSA | 5,89 € | 13,18 € | 9,47 € | 39,90 € | 26,72 € | 32,90 € | 19,72 € |
+| Jersey sin marca | 6,17 € | 13,52 € | 9,80 € | 40,90 € | 27,38 € | 33,90 € | 20,38 € |
+
+**Conclusión:** con aranceles e IVA, ×3 da 35-52 € por hiyab, demasiado para poliéster de China. Opciones para Producto: ×2,5, o **packs** (el arancel es por línea arancelaria: 3 hiyabs iguales del mismo vendedor en un paquete = un solo 3 €). 5 de los 8 son del mismo vendedor (LAVEN), lo que facilita packs.
+Los precios de la tabla de abajo (×3 sin impuestos) quedan **sustituidos** por esta.
+
 ## ✅ Nos los quedamos
 | # | modelo | proveedor (marca AliExpress) | tejido (ficha) | coste total | precio | margen | Shopify ID |
 |---|---|---|---|---|---|---|---|
@@ -37,7 +57,8 @@ Criterios (`CLAUDE.md`, fase 1 sin muestras): reseñas con fotos de clientas · 
 | Pull-on modal MSL241 | sin stock (8 unidades en total) | 11262958076247 |
 
 ## ⚠️ Pendiente antes de publicar
-1. **Reseñas con fotos y plazo real:** no se ven desde Shopify y AliExpress no deja leerlos desde aquí. La usuaria los comprueba en la ficha de AliExpress de los 8 ✅ (nota ≥4,6, reseñas con fotos, entrega a ES ≤15 días). Si alguno falla, se pasa a ❌.
+1. **Reseñas con fotos:** AliExpress bloquea la lectura desde la nube. Pendiente de leerlas con el navegador cuando el chat esté vinculado al ordenador (app de escritorio).
+6. **IVA e impuestos en la tienda** (OSS/IOSS, si el IVA pagado a AliExpress se puede recuperar) → chat **Mercados** / **Legal-finanzas**.
 2. **Material real:** varios títulos dicen "modal" o "cotton" pero la ficha dice **poliéster** (#1, #8). El chat **Producto** no debe prometer modal o algodón en esos.
 3. **Variantes:** quitar colores agotados y los que no encajen con la paleta (lo decide Producto).
 4. **Descartados:** siguen en Shopify como borrador sin etiqueta; borrarlos o archivarlos desde DSers/Shopify.
