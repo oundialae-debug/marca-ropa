@@ -1,0 +1,25 @@
+name: AliExpress API (Producción)
+on:
+  push:
+    paths: ["produccion/api/peticion.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: aliexpress-api
+jobs:
+  llamar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Llamar a la API
+        env:
+          AE_APP_KEY: "552384"
+          AE_APP_SECRET: ${{ secrets.AE_APP_SECRET }}
+        run: python3 produccion/api/ae_call.py
+      - name: Guardar resultado
+        run: |
+          git config user.name "nesma-bot"
+          git config user.email "nesma-bot@users.noreply.github.com"
+          git add produccion/api/resultado.json produccion/api/token.enc 2>/dev/null || git add produccion/api/resultado.json
+          git commit -m "API AliExpress: resultado" || exit 0
+          git pull --rebase && git push

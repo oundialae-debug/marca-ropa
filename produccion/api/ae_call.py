@@ -1,0 +1,58 @@
+"""Llama a la API oficial de AliExpress (Open Platform) desde GitHub Actions.
+Lee produccion/api/peticion.json y escribe produccion/api/resultado.json.
+El token de acceso se guarda cifrado (con la App Secret) en produccion/api/token.enc."""
+import hmac, hashlib, time, json, os, subprocess, urllib.parse, urllib.request
+
+KEY = os.environ["AE_APP_KEY"]
+SECRET = os.environ["AE_APP_SECRET"]
+BASE = os.path.dirname(os.path.abspath(__file__))
+TOKEN_FILE = os.path.join(BASE, "token.enc")
+
+def sign(params, path=""):
+    s = path + "".join(k + str(params[k]) for k in sorted(params))
+    return hmac.new(SECRET.encode(), s.encode(), hashlib.sha256).hexdigest().upper()
+
+def call(method=None, path=None, params=None, use_token=True):
+    p = {"app_key": KEY, "timestamp": str(int(time.time() * 1000)), "sign_method": "sha256"}
+    if method:
+        p["method"] = method
+    if use_token and os.path.exists(TOKEN_FILE):
+        p["access_token"] = load_token()["access_token"]
+    p.update({k: str(v) for k, v in (params or {}).items()})
+    p["sign"] = sign(p, path or "")
+    url = "https://api-sg.aliexpress.com/" + ("rest" + path if path else "sync")
+    req = urllib.request.Request(url, data=urllib.parse.urlencode(p).encode(),
+                                 headers={"Content-Type": "application/x-www-form-urlencoded;charset=utf-8"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return json.loads(r.read().decode())
+
+def openssl(args, data):
+    return subprocess.run(["openssl", "enc", "-aes-256-cbc", "-pbkdf2", "-a", "-A", *args, "-pass", "env:AE_APP_SECRET"],
+                          input=data, capture_output=True, check=True).stdout
+
+def save_token(tok):
+    with open(TOKEN_FILE, "wb") as f:
+        f.write(openssl([], json.dumps(tok).encode()))
+
+def load_token():
+    return json.loads(openssl(["-d"], open(TOKEN_FILE, "rb").read()))
+
+def main():
+    req = json.load(open(os.path.join(BASE, "peticion.json")))
+    out = {"pedido": req.get("id"), "fecha": time.strftime("%Y-%m-%d %H:%M:%S"), "respuestas": []}
+    for c in req["llamadas"]:
+        try:
+            if c.get("tipo") == "token":  # canjear el código de autorización
+                r = call(path="/auth/token/create", params={"code": c["code"]}, use_token=False)
+                if "access_token" in r:
+                    save_token(r)
+                    r = {"ok": True, "cuenta": r.get("account"), "caduca_ms": r.get("expire_time")}
+            else:
+                r = call(method=c["method"], params=c.get("params"), use_token=c.get("token", True))
+        except Exception as e:
+            r = {"error": repr(e)}
+        out["respuestas"].append({"llamada": {k: v for k, v in c.items() if k != "code"}, "respuesta": r})
+    json.dump(out, open(os.path.join(BASE, "resultado.json"), "w"), ensure_ascii=False, indent=1)
+
+if __name__ == "__main__":
+    main()

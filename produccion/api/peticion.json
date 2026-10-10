@@ -1,0 +1,4 @@
+{"id": 1, "llamadas": [
+  {"method": "aliexpress.ds.text.search", "token": false,
+   "params": {"keyWord": "jersey hijab", "local": "es_ES", "countryCode": "ES", "currency": "EUR", "pageSize": "5", "pageIndex": "1"}}
+]}
