@@ -1,382 +1,373 @@
 {
- "id": 22,
+ "id": 23,
  "llamadas": [
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/Sa8ce3ad7d0b047f4a74c0ef89d620d472.png",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "same",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005006438896870",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/Sa8ce3ad7d0b047f4a74c0ef89d620d472.png",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005008827503014",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/S41f60bd873144d9e907fb3061e7d299e3.png",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005005626604512",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/Ha742f0fd4db74401aa8e4e13a0f882d1W.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "same",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005007094676986",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/Ha742f0fd4db74401aa8e4e13a0f882d1W.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005010346019821",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/H8fd38a83696d43ad925a585d79cd8e410.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005012122334402",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/H3c14bc47d00943d6b3c164fce6906a1aP.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "same",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005007086134683",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/H3c14bc47d00943d6b3c164fce6906a1aP.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005007700644107",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/HTB1oNbLe21H3KVjSZFHq6zKppXaf.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005011539686456",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/H031f0e772b534fcd9ba4cf5df74bde9bb.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "same",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005005953548190",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/H031f0e772b534fcd9ba4cf5df74bde9bb.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005005459601699",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/Hf2516fd0d39e4d3288de989918d090b5U.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005005197442061",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/Sb16efaef0f6b483fa01e2adc0c46b569J.png",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "same",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005007987783979",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/Sb16efaef0f6b483fa01e2adc0c46b569J.png",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005008621065066",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/S2e8fb8d5381946bc88b91f18fec22bd4u.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005006505546065",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/S0e535d5fe54e4e76a47c676b4eae93acE.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "same",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005006430247963",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/S0e535d5fe54e4e76a47c676b4eae93acE.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005010362723902",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/S7edef5f412c44755bde4ebf26769dd31G.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "32881152212",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/Sdc337671699f424186cad6138195ee6cl.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "same",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005005735242942",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/Sdc337671699f424186cad6138195ee6cl.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "33005478594",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/Saacad101d76b4f2ca6a1674dc029a44bj.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "4001317489507",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/S19b7e851a6e94891b1c56da702f03399k.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "same",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005005734548725",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/S19b7e851a6e94891b1c56da702f03399k.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005012847762445",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/S9c422baab1b548ecb6cf9b703d5479bap.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005009455693567",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/S9e85ed770612432abf2dc6b65d5840b8V.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "same",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005006424577929",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/S9e85ed770612432abf2dc6b65d5840b8V.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005003222198368",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.image.searchV2",
-   "image_url": "https://ae01.alicdn.com/kf/S7361bcc1324c495e8d3c6a4bfd0fab51W.jpg",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "param0": {
-     "search_type": "similar",
-     "currency": "EUR",
-     "lang": "es",
-     "sort_type": "orders",
-     "sort_order": "desc",
-     "ship_to": "FR"
-    }
+    "product_id": "1005006645916602",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
+   }
+  },
+  {
+   "method": "aliexpress.ds.product.get",
+   "params": {
+    "product_id": "1005009907834341",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
+   }
+  },
+  {
+   "method": "aliexpress.ds.product.get",
+   "params": {
+    "product_id": "1005003567982382",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
+   }
+  },
+  {
+   "method": "aliexpress.ds.product.get",
+   "params": {
+    "product_id": "1005007205039549",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
+   }
+  },
+  {
+   "method": "aliexpress.ds.product.get",
+   "params": {
+    "product_id": "1005007203303363",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
+   }
+  },
+  {
+   "method": "aliexpress.ds.product.get",
+   "params": {
+    "product_id": "1005009773931347",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
+   }
+  },
+  {
+   "method": "aliexpress.ds.product.get",
+   "params": {
+    "product_id": "1005007837285175",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
+   }
+  },
+  {
+   "method": "aliexpress.ds.product.get",
+   "params": {
+    "product_id": "1005008121526634",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
+   }
+  },
+  {
+   "method": "aliexpress.ds.product.get",
+   "params": {
+    "product_id": "1005009719701969",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
+   }
+  },
+  {
+   "method": "aliexpress.ds.product.get",
+   "params": {
+    "product_id": "1005008315777402",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
+   }
+  },
+  {
+   "method": "aliexpress.ds.product.get",
+   "params": {
+    "product_id": "1005007843057123",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
+   }
+  },
+  {
+   "method": "aliexpress.ds.product.get",
+   "params": {
+    "product_id": "1005006010603607",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
+   }
+  },
+  {
+   "method": "aliexpress.ds.product.get",
+   "params": {
+    "product_id": "1005009667674588",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
+   }
+  },
+  {
+   "method": "aliexpress.ds.product.get",
+   "params": {
+    "product_id": "1005007231660533",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
+   }
+  },
+  {
+   "method": "aliexpress.ds.product.get",
+   "params": {
+    "product_id": "1005004567820288",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   }
  ]
