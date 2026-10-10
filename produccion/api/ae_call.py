@@ -58,7 +58,16 @@ def main():
                     save_token(r)
                     r = {"ok": True, "cuenta": r.get("account"), "caduca_ms": r.get("expire_time")}
             else:
-                r = call(method=c["method"], params=c.get("params"), use_token=c.get("token", True))
+                params = dict(c.get("params") or {})
+                if c.get("image_url"):  # búsqueda por imagen: el runner descarga la foto y la pasa en base64
+                    import base64
+                    img = urllib.request.urlopen(c["image_url"], timeout=60).read()
+                    p0 = dict(params.get("param0") or {})
+                    p0["image_base64"] = base64.b64encode(img).decode()
+                    params["param0"] = json.dumps(p0)
+                elif isinstance(params.get("param0"), dict):
+                    params["param0"] = json.dumps(params["param0"])
+                r = call(method=c["method"], params=params, use_token=c.get("token", True))
         except Exception as e:
             r = {"error": repr(e)}
         out["respuestas"].append({"llamada": {k: v for k, v in c.items() if k != "code"}, "respuesta": r})
