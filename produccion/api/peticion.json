@@ -1,67 +1,732 @@
 {
- "id": 9,
+ "id": 10,
  "llamadas": [
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.text.search",
    "params": {
-    "product_id": "1005007100433982",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.text.search",
    "params": {
-    "product_id": "1005005178341043",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.text.search",
    "params": {
-    "product_id": "1005006645829730",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3",
+    "sortBy": "orders,desc"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.text.search",
    "params": {
-    "product_id": "1005006319086970",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4",
+    "sortBy": "orders,desc"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.text.search",
    "params": {
-    "product_id": "1005006919742077",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "keyWord": "jersey hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.text.search",
    "params": {
-    "product_id": "1005008076898965",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "keyWord": "jersey hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.text.search",
    "params": {
-    "product_id": "1005009107242857",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "keyWord": "jersey hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "premium jersey hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "premium jersey hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "premium jersey hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "premium jersey hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "cotton hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "cotton hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "cotton hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "cotton hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "rayon hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "rayon hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "rayon hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "rayon hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "viscose hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "viscose hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "viscose hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "viscose hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "crinkle hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "crinkle hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "crinkle hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "crinkle hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "plain hijab scarf",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "plain hijab scarf",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "plain hijab scarf",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "plain hijab scarf",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "bamboo hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "bamboo hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "bamboo hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "bamboo hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "linen hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "linen hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "linen hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "linen hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "black jersey hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "black jersey hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "black jersey hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "black jersey hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "long hijab shawl",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "long hijab shawl",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "long hijab shawl",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "long hijab shawl",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hiyab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hiyab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hiyab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hiyab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4",
+    "sortBy": "orders,desc"
    }
   }
  ]
