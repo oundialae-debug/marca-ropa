@@ -135,3 +135,15 @@ Los errores `DELIVERY_SERVICE_EXCEPTION` de la API son puntuales (el mismo produ
 | Gorro de cobertura completa (reserva) | 11263107006807 | 1005002864337827 | 5,0 (9) | 16 | 4,29 € | 2,15-2,63 € (1 ud.), 3,27-4,65 € (3 ud.); hasta 17 días |
 
 **Notas para Producto:** precios actuales en Shopify = coste de DSers (provisional). Pedidos con varios hiyabs del **mismo anuncio** = 1 envío y 1 arancel (RUNMEIFA tiene 2 modelos). Material real: la mayoría son poliéster aunque el título diga modal/algodón; el set GELMOIN dice «thin» en su título → no prometer opacidad. Quitar en Shopify los colores agotados (ver «colores con stock»).
+
+## TANDA 3 — búsqueda por imagen (10/10/2026)
+Búsqueda por imagen con los 9 hiyabs → 178 resultados → 41 revisados con `product.get` → envío a GB/FR/DE/NL/IT con `freight.query`. Cruzado con Shopify por imágenes (nada repetido).
+
+**✅ Para importar (Choice, 1,99 €/pedido, 9-13 días):**
+| AliExpress ID | modelo | tienda (nota) | nota · reseñas · ventas | coste | stock ≥100 (colores / neutros) | aviso |
+|---|---|---|---|---|---|---|
+| 1005005459601699 | Lino-algodón grande 90×180 | Shop1102297509 (4,7) | 4,9 · 23 · 82 | 4,29-4,99 € | 69 / 20 | NL a veces sin servicio (temporal) |
+| 1005008827503014 | Plisado "algodón-lino" 180×90 (SWINATE) | SWINATE Official (4,7) | 4,7 · 132 · 495 | 4,29-4,99 € | 27 / 7 | ficha: **poliéster** → no prometer lino |
+| 1005007231660533 | Jersey grande 180×80 | LAVEN Scarf Store (4,6) | 4,5 · 26 · 82 | 5,59 € (variantes caras: quitar) | 25 / 6 | DE a veces sin servicio (temporal) |
+
+**❌ Descartados:** GELMOIN modal/bambú (1005009907834341, 1005009719701969, 1005007837285175): no Choice, envío 4,80-8,17 € por unidad. Lino-algodón arrugado 1005005735242942: casi igual al primero y ficha de poliéster. 1005003567982382: es el BS082 ya archivado. Crinkle viscosa Yiwu Dreamer 1005005626604512: repite el crinkle grande. Voile (1005009773931347, 1005004567820288): transparenta. Resto: sin stock.
