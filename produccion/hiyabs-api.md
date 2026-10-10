@@ -61,3 +61,22 @@ El catálogo de dropshipping de la API en la categoría hiyabs tiene ~240 produc
 | Instantáneos, gorros, jersey acanalado, pañuelo largo con lazo (6) | varios | ❌ sin stock |
 
 **Conclusión:** con el catálogo de la API salen **6** (4 + set GELMOIN + reserva). Para llegar a 10-12: la usuaria pega enlaces de AliExpress que le gusten y Producción los verifica con la API al momento (stock por color, nota, envío).
+
+## Lista final para importar (criterio relajado, 10/10/2026 06:45)
+Decisión de la usuaria: aceptar modelos con pocas reseñas si la tienda es buena (nota de tienda ≥4,5) y cumplen tejido opaco + stock en neutros + envío Choice 1,99 €.
+
+| orden | hiyab | tienda (nota) | ID AliExpress | nota producto | colores con stock (neutros) | precio | envío | estado |
+|---|---|---|---|---|---|---|---|---|
+| — | Modal 170×60 | HAOYAN | 1005006319086970 | 4,7 (145) | 14 | 6,19-6,99 € | 1,99 € (NL error hoy) | ya en tienda |
+| — | Jersey premium | Laven Official (4,4) | 1005008076898965 | 4,4 (183) | 23 | 4,89-5,99 € | 1,99 € | ya en tienda |
+| — | Modal/rayón liso | Hijab Glamour (4,5) | 1005007100433982 | 4,7 (250) | 10 (5) | 7,99-8,99 € | 1,99 € (DE no) | ya en tienda ⚠️ |
+| 1 | Crinkle rayón | Yiwu Vora (4,6) | 1005006645829730 | 4,8 (65) | 44 (14) | 8,79-10,59 € | 1,99 € | importar (sustituye la copia creada a mano) |
+| 2 | Crinkle algodón grande | RUNMEIFA Official (4,7) | 1005006411486233 | 4,5 (11) | 54 (20) | 4,49-4,89 € | 1,99 € los 5 países | importar |
+| 3 | Algodón liso (sarga) | RUNMEIFA Official (4,7) | 33055642968 | 4,8 (27) | 22 (11) | 4,59-5,49 € | 1,99 € (UK/NL error hoy) | importar |
+| 4 | Jersey liso | SANMAIHUA Hijab Store (4,7) | 4000022442764 | 5,0 (3) | 30 (11) | 6,39-8,19 € | 1,99 € | importar |
+| 5 | Jersey arrugado algodón | SANMAIHUA Official (4,7) | 1005005633125258 | 4,3 (4) | 18 (11) | 5,29-5,59 € | 1,99 € (DE no) | importar |
+| 6 | Hiyab instantáneo algodón | Forever Scarf (4,7) | 1005008208535051 | 4,7 (29) | 10 (6) | 7,29-7,89 € | 1,99 € | importar |
+| 7 | Set hiyab modal + gorro (premium) | GELMOIN (4,9) | 1005009107242857 | 4,9 (577) | 66 | 7,99 € | 6-8,5 € (no Choice) | importar |
+| 8 | Cobertura completa elástico (reserva) | Islamic products | 1005002864337827 | 5,0 (9) | 16 (10, incl. negro) | 4,29 € | 2,15-2,86 €, hasta 17 días | importar como reserva |
+
+Total: 3 en tienda + 8 por importar = **11**. RUNMEIFA (2 modelos) permite pedidos combinados de la misma tienda.

@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 10/10/2026: Producción: criterio relajado (tienda buena aunque el modelo tenga pocas reseñas). Lista final de 11 hiyabs (3 en tienda + 8 por importar) en `produccion/hiyabs-api.md`.
 - 10/10/2026: Producción: catálogo API revisado entero: +1 premium (set GELMOIN) y +1 reserva. Total 6. Para 10-12, verificar con la API enlaces que aporte la usuaria.
 - 10/10/2026: Producción: Shopify actualizado con datos de la API: 4 hiyabs en borrador (crinkle Vora creado, modal HAOYAN, jersey Laven, modal liso con aviso); 21 archivados con etiqueta `descartado`. Crinkle pendiente de enlazar en DSers.
 - 10/10/2026: Producción: API AliExpress funcionando. Hiyabs Choice: envío 1,99 € por pedido (1-3 ud.) a UK/FR/DE/NL/IT → packs rentables. Finalistas en `produccion/hiyabs-api.md`.
