@@ -37,7 +37,17 @@ def save_token(tok):
 def load_token():
     return json.loads(openssl(["-d"], open(TOKEN_FILE, "rb").read()))
 
+def refresh_if_needed():
+    if not os.path.exists(TOKEN_FILE):
+        return
+    t = load_token()
+    if int(t.get("expire_time", 0)) - time.time() * 1000 < 6 * 3600 * 1000 and t.get("refresh_token"):
+        r = call(path="/auth/token/refresh", params={"refresh_token": t["refresh_token"]}, use_token=False)
+        if "access_token" in r:
+            save_token(r)
+
 def main():
+    refresh_if_needed()
     req = json.load(open(os.path.join(BASE, "peticion.json")))
     out = {"pedido": req.get("id"), "fecha": time.strftime("%Y-%m-%d %H:%M:%S"), "respuestas": []}
     for c in req["llamadas"]:

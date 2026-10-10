@@ -1,5 +1,77 @@
-{"id": 2, "llamadas": [
-  {"tipo": "token", "code": "3_552384_MuE8OmhmcgLyONCYjI5cBzGm216"},
-  {"method": "aliexpress.ds.text.search",
-   "params": {"keyWord": "jersey hijab", "local": "es_ES", "countryCode": "ES", "currency": "EUR", "pageSize": "5", "pageIndex": "1"}}
-]}
+{
+ "id": 3,
+ "llamadas": [
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey hijab",
+    "local": "es_ES",
+    "countryCode": "ES",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal hijab",
+    "local": "es_ES",
+    "countryCode": "ES",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "crinkle hijab",
+    "local": "es_ES",
+    "countryCode": "ES",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "premium jersey hijab",
+    "local": "es_ES",
+    "countryCode": "ES",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hijab undercap set",
+    "local": "es_ES",
+    "countryCode": "ES",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "viscose hijab",
+    "local": "es_ES",
+    "countryCode": "ES",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  }
+ ]
+}
