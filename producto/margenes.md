@@ -1,63 +1,52 @@
-# Márgenes de los hiyabs ✅ (fase 1) — 10/10/2026
+# Precios y márgenes — fase 1 (10/10/2026, v2)
 
-Base: los 8 ✅ de `produccion/seleccion-hiyabs.md`. Precios propuestos por el chat Producto (pendientes de tu OK).
+**Aplicado en Shopify** el 10/10/2026: precios, títulos, textos, colores agotados quitados y descuento de pack. Todo sigue en **borrador**.
+Base: «VERIFICACIÓN FINAL» de `produccion/hiyabs-api.md` (costes con IVA, envío y arancel, calculados por Producción). Sustituye a la v1.
 
-## Datos usados
-- **Coste del producto:** coste real por variante leído en Shopify (`unitCost`, importado por DSers) el 10/10/2026. Se usa la **variante más cara** de la familia principal (cálculo prudente).
-- **Coste + envío (España/UE, 1 hiyab):** (producto + 1,99 € envío) × 1,21 IVA IOSS + 3,63 € arancel = lo que cobra AliExpress (checkout real, ver Producción).
-- **IVA de la venta:** 21 % (España) incluido en el precio. Otros países UE usan su tipo vía OSS (→ chat **Mercados**).
-- **Comisión de pago:** 2,9 % + 0,25 € (Shopify Payments, plan Basic, tarjetas UE; tarifa publicada, sin confirmar en tu panel → mírala en *Ajustes › Pagos*). UK: +1 % tarjeta internacional.
-- **Beneficio antes de anuncios** = precio − IVA − coste + envío − comisión.
-- **CPA máximo** = ese beneficio (punto de equilibrio: gastar más en anuncios por venta = perder dinero). Para ganar algo, apuntar a ~60 % de esa cifra.
-- 🔴 = deja **menos de 8 €** por venta.
+## Cálculo
+- **Coste UE 1 ud.** = producto + envío 1,99 € + arancel 3,63 €. **UK** = sin arancel.
+- **Pack ×3 del mismo anuncio** = un solo envío y un solo arancel.
+- **IVA de la venta:** 21 % (España). UK: 20 %.
+- **Comisión de pago:** 2,9 % + 0,25 € (UE), y +1 % en UK. Es la tarifa publicada del plan Basic; está **sin confirmar** en el panel.
+- **Beneficio** = antes de anuncios. Es también el **CPA máximo** (punto de equilibrio).
+- 🔴 = menos de 8 €.
 
-## Precios propuestos por niveles (1 hiyab, España)
-Niveles: jersey 24,90 € · modal 27,90 € · crinkle 29,90 €.
+## Hiyabs (precio suelto; pack = 3 del mismo modelo con −15 % automático)
+| hiyab en Shopify | origen (Producción) | precio | IVA | coste UE | comisión | beneficio UE | con envío 3,95 € | beneficio UK | precio pack ×3 | coste pack UE | beneficio pack UE | beneficio pack UK |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Hiyab crinkle grande 90 × 180 | crinkle algodón · RUNMEIFA | 19,90 € | 3,45 € | 10,51 € | 0,83 € | 🔴 5,11 € | 8,26 € | 8,68 € | 50,74 € | 20,28 € | 19,93 € | 23,40 € |
+| Hiyab liso de sarga 90 × 180 | algodón liso · RUNMEIFA | 19,90 € | 3,45 € | 11,11 € | 0,83 € | 🔴 4,51 € | 🔴 7,66 € | 8,08 € | 50,74 € | 22,08 € | 18,13 € | 21,60 € |
+| Hiyab jersey arrugado 90 × 180 | jersey arrugado · SANMAIHUA | 19,90 € | 3,45 € | 11,21 € | 0,83 € | 🔴 4,41 € | 🔴 7,56 € | 🔴 7,98 € | 50,74 € | 22,38 € | 17,83 € | 21,30 € |
+| Hiyab jersey elástico 170 × 60 | jersey premium · Laven | 22,90 € | 3,97 € | 12,51 € | 0,91 € | 🔴 5,50 € | 8,65 € | 9,06 € | 58,39 € | 26,28 € | 20,03 € | 23,48 € |
+| Hiyab de punto 170 × 60 | modal · HAOYAN | 22,90 € | 3,97 € | 13,21 € | 0,91 € | 🔴 4,80 € | 🔴 7,95 € | 8,36 € | 58,39 € | 28,38 € | 17,93 € | 21,38 € |
+| Hiyab jersey grande 180 × 85 | jersey liso · SANMAIHUA | 22,90 € | 3,97 € | 13,81 € | 0,91 € | 🔴 4,20 € | 🔴 7,35 € | 🔴 7,76 € | 58,39 € | 30,18 € | 16,13 € | 19,58 € |
+| Hiyab liso grande 190 × 85 | modal/rayón liso · Hijab Glamour | 26,90 € | 4,67 € | 14,61 € | 1,03 € | 🔴 6,59 € | 9,74 € | 10,14 € | 68,59 € | 32,58 € | 21,87 € | 25,28 € |
+| Hiyab crinkle 180 × 80 | crinkle rayón · Yiwu Vora | 26,90 € | 4,67 € | 16,21 € | 1,03 € | 🔴 4,99 € | 8,14 € | 8,54 € | 68,59 € | 37,38 € | 17,07 € | 20,48 € |
+| Set hiyab + gorro interior | GELMOIN (premium) | 32,90 € | 5,71 € | 17,99 € | 1,20 € | 8,00 € | 11,15 € | 11,52 € | 83,89 € | 40,65 € | 26,00 € | 29,37 € |
 
-| | modelo | proveedor | coste Shopify | precio | IVA 21 % | coste + envío | comisión | beneficio | CPA máx. |
-|---|---|---|---|---|---|---|---|---|---|
-| 🔴 | YW125 jersey 170×60 | LAVEN | 4,93 € | 24,90 € | 4,32 € | 12,00 € | 0,97 € | **7,60 €** | 7,60 € |
-| 🔴 | VS527D modal 190×85 | LAVEN | 7,41 € | 27,90 € | 4,84 € | 15,00 € | 1,06 € | **6,99 €** | 6,99 € |
-| 🔴 | BS082 jersey algodón 180×85 | LAVEN | 5,64 € | 24,90 € | 4,32 € | 12,86 € | 0,97 € | **6,74 €** | 6,74 € |
-| ✅ | VS723 crinkle | LAVEN | 6,86 € | 29,90 € | 5,19 € | 14,34 € | 1,12 € | 9,26 € | 9,26 € |
-| ✅ | VS983 modal 185×75 | LAVEN | 5,90 € | 27,90 € | 4,84 € | 13,18 € | 1,06 € | 8,82 € | 8,82 € |
-| 🔴 | WJ5200B jersey 180×85 | SANMAIHUA | 5,41 € | 24,90 € | 4,32 € | 12,58 € | 0,97 € | **7,02 €** | 7,02 € |
-| ✅ | Jersey modal 170×60 | GORMEYPSA | 6,12 € | 27,90 € | 4,84 € | 13,44 € | 1,06 € | 8,56 € | 8,56 € |
-| 🔴 | Jersey hiyab | sin marca | 6,17 € | 24,90 € | 4,32 € | 13,50 € | 0,97 € | **6,10 €** | 6,10 € |
+**Lectura:**
+- **El hiyab suelto en la UE solo funciona si se cobra el envío** (3,95 €). Aun así deja 7-11 €, que no da para anuncios.
+- **Los packs ×3 dejan 16-26 € en la UE y 20-29 € en UK.** Se anuncian los packs, no el hiyab suelto.
+- Precio por unidad en el pack: 16,91-22,86 € (el set, 27,96 €). Encaja en la franja alta del mercado UE (12-20 €); ver la comprobación con el mercado al final.
 
-**5 de 8 en rojo.** Vendidos de uno en uno, con anuncios casi no dejan nada: un CPA de 7 € en Meta para moda es optimista. Por eso la venta suelta debe pagar envío y el foco va en packs.
+## Gorros interiores (tipo `Gorro interior`): 12,90 €, sin descuento de pack
+| gorro | coste UE 1 ud. | beneficio UE | con envío 3,95 € | beneficio UK |
+|---|---|---|---|---|
+| Gorro interior triangular | 13,51 € | 🔴 −3,47 € | 🔴 −0,32 € | 🔴 0,12 € |
+| Gorro interior de cobertura completa | 10,55 € | 🔴 −0,51 € | 🔴 2,64 € | 🔴 3,08 € |
 
-### UK (mismo precio en €, como referencia)
-Sin arancel de 3 € y coste 8,30-11,28 €: beneficio 9,74-12,88 € por hiyab. Ninguno en rojo, pero falta confirmar el registro de IVA UK (→ **Legal-finanzas / Mercados**).
+Al ser otro anuncio de AliExpress, cada gorro paga **su propio envío y su propio arancel**, aunque vaya en el mismo pedido que un hiyab. **No dejan margen a ningún precio razonable** (el triangular necesitaría más de 20 €). **Propuesta: no publicarlos en la fase 1.** El set GELMOIN ya cubre la necesidad de llevar gorro.
 
-## Packs ×3 (mismo modelo, colores a elegir)
-Un pedido de 3 iguales del mismo vendedor = **un solo arancel** (3,63 €) y un envío. Coste pack = (3 × producto + 1,99) × 1,21 + 3,63.
+## Envío (lo configura el chat Web)
+- Pedidos de menos de 49 €: envío **3,95 €**.
+- Pedidos desde 49 €: **envío gratis**. Entran en el umbral todos los packs ×3. Con 2 hiyabs sueltos solo llegan los de 26,90 € y el set; los demás piden un tercero, que ya activa el pack.
+- **Alemania:** el *Hiyab liso grande 190 × 85* y el *Hiyab jersey arrugado 90 × 180* quizá no envían allí (Producción no lo ha confirmado). Excluirlos de Alemania en Shopify o confirmarlo antes de abrir ese mercado (chats Web y Mercados).
 
-| modelo | precio pack | ahorro vs suelto | coste pack | beneficio pack | por hiyab | CPA máx. |
-|---|---|---|---|---|---|---|
-| YW125 jersey | 59,90 € | −20 % | 23,93 € | 23,58 € | 7,86 € | 23,58 € |
-| VS527D modal | 64,90 € | −22 % | 32,94 € | 18,57 € | 6,19 € | 18,57 € |
-| BS082 jersey | 59,90 € | −20 % | 26,51 € | 21,01 € | 7,00 € | 21,01 € |
-| VS723 crinkle | 69,90 € | −22 % | 30,94 € | 24,55 € | 8,18 € | 24,55 € |
-| VS983 modal | 64,90 € | −22 % | 27,45 € | 24,05 € | 8,02 € | 24,05 € |
-| WJ5200B jersey | 59,90 € | −20 % | 25,68 € | 21,84 € | 7,28 € | 21,84 € |
-| Jersey modal GORMEYPSA | 64,90 € | −22 % | 28,25 € | 23,25 € | 7,75 € | 23,25 € |
-| Jersey hiyab | 59,90 € | −20 % | 28,43 € | 19,08 € | 6,36 € | 19,08 € |
-
-El pack triplica el CPA que te puedes permitir (18-25 € frente a 6-9 €). **Propuesta: anunciar el pack, no el hiyab suelto.**
-Riesgo: si AliExpress divide el pedido en varios paquetes, se pagan varios aranceles. Confirmar con un pedido real (→ chat **Producción**).
-
-## Envío gratis
-- **Venta suelta: envío 3,95 €.** Sube el beneficio de cualquier hiyab a 9,25-12,41 € (ya ninguno en rojo).
-- **Envío gratis desde 49 €:** lo alcanza cualquier pack ×3 o 2 hiyabs. Con 2 sueltos el beneficio del pedido es 12,46-18,76 €.
-- Mensaje en la tienda: "Envío gratis desde 49 € — o llévate 3 y ahorra hasta un 22 %".
-- Configurar tarifas en Shopify → chat **Web**; condiciones de envío → chat **Operaciones**.
-
-## ⚠️ Revisar antes de publicar
-1. **Los precios en Shopify son hoy el coste** (DSers importó precio = coste, 4-10 €). No publicar nada hasta poner los precios de venta.
-2. **Variantes que no son del mismo producto:** YW125 trae 2 variantes ZH434 a 7,00 € (beneficio 5,10 €) y VS723 trae ~38 variantes CXT0824 a 7,65-9,73 € (beneficio hasta 5,78 €). Propuesta: quitarlas o tratarlas como producto aparte.
-3. **IVA doble:** AliExpress cobra IVA IOSS y la tienda también cobra IVA a la clienta. Aquí el IVA de AliExpress cuenta como coste (no recuperable). Si se puede deducir, cada hiyab gana unos 1,6-2,2 € más → chat **Legal-finanzas**.
-4. Bajada de precios a 19,90-24,90 € (idea de `seleccion-hiyabs.md`): todos quedarían en rojo (2-5 €). No recomendado en España/UE.
+## Pendiente
+1. **Colores:** los nombres siguen como los puso el proveedor: números, inglés (en *Hiyab de punto* y en el gorro de cobertura completa) y la opción «Ships From: China Mainland» en 2 productos. No los he tocado para no romper el enlace con DSers. Hay que comprobar en DSers que renombrarlos no rompe el enlace y, si no lo rompe, traducirlos.
+2. **Hiyab de punto 170 × 60:** se quedan sin stock el negro y el blanco (no llegan al mínimo de 100 ud.).
+3. **IVA doble:** AliExpress cobra IVA y la tienda también (→ chat Legal-finanzas).
+4. **Comisión de pago real** en *Ajustes › Pagos*.
 
 ## Comprobación con el mercado (10/10/2026)
 Precios de hiyab jersey en la competencia:
