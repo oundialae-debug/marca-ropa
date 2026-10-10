@@ -1,0 +1,322 @@
+{
+ "score": "",
+ "sdkDownloadsLink": "https://ae-open-platform-public.oss-ap-southeast-1.aliyuncs.com/online/oss_1791522010760_0_Q63q.zip",
+ "suggestionList": [],
+ "id": 1732,
+ "lastModified": "2024-11-05 15:54:36",
+ "testToolLink": "https://openservice.aliexpress.com/app/index.htm#/api/test",
+ "viewCount": 3733,
+ "authType": 0,
+ "apiList": [
+  {
+   "chargeable": false,
+   "method": "GET/POST",
+   "docId": 1732,
+   "errorCodes": {
+    "data": [],
+    "id": null
+   },
+   "commonParameters": {
+    "data": [
+     {
+      "treeId": null,
+      "data": [],
+      "children": [],
+      "name": "app_key",
+      "id": null,
+      "type": "String",
+      "required": true,
+      "desc": "Unique app ID issued by AE Open Platform console when you apply for an app category"
+     },
+     {
+      "treeId": null,
+      "data": [],
+      "children": [],
+      "name": "timestamp",
+      "id": null,
+      "type": "String",
+      "required": true,
+      "desc": "The time stamp of the request e.g. 2022-04-28 10:46:37 (TOP Protocol) or 1651113997000 (GOP Protocol), with less than 7200s difference from UTC time"
+     },
+     {
+      "treeId": null,
+      "data": [],
+      "children": [],
+      "name": "access_token",
+      "id": null,
+      "type": "String",
+      "required": false,
+      "desc": "API interface call credentials"
+     },
+     {
+      "treeId": null,
+      "data": [],
+      "children": [],
+      "name": "sign_method",
+      "id": null,
+      "type": "String",
+      "required": true,
+      "desc": "The HMAC hash algorithm you are using to calculate your signature"
+     },
+     {
+      "treeId": null,
+      "data": [],
+      "children": [],
+      "name": "sign",
+      "id": null,
+      "type": "String",
+      "required": true,
+      "desc": "Part of the authentication process that is used for identifying and verifying who is sending a request (click <a target='_blank' href='https://developers.aliexpress.com/doc.htm?docId=107468&docType=1'>here</a> for details)"
+     }
+    ],
+    "id": 2507
+   },
+   "title": "search event report",
+   "path": "aliexpress.ds.search.event.report",
+   "examples": {
+    "data": [
+     {
+      "output": [
+       {
+        "serviceParamHttpType": "",
+        "serviceParamType": "1",
+        "hitLog": false,
+        "defaultValue": "",
+        "previewDemo": "",
+        "maxSize": "",
+        "paramName": "code",
+        "demo": "code",
+        "required": false,
+        "paramType": "1",
+        "mappingValue": "",
+        "minValue": null,
+        "dataMaskUrl": "",
+        "enumValue": "",
+        "children": [],
+        "maxListSize": "",
+        "id": 4198560,
+        "apiId": "304014",
+        "docVisible": false,
+        "paramOrder": "",
+        "moreLimit": "",
+        "maxValue": null,
+        "paramFrom": "2",
+        "sensitiveDataTag": "",
+        "maskField": "",
+        "serviceParamName": "code",
+        "parentId": 4198559,
+        "dataSecurityLevel": "S2",
+        "serviceParamPath": "java.lang.String",
+        "mappingType": "1",
+        "regexExpression": "",
+        "constantValue": "",
+        "desc": "[{\"zh_CN\":\"code\"},{\"en_US\":\"code\"}]"
+       },
+       {
+        "serviceParamHttpType": "",
+        "serviceParamType": "1",
+        "hitLog": false,
+        "defaultValue": "",
+        "previewDemo": "",
+        "maxSize": "",
+        "paramName": "msg",
+        "demo": "msg",
+        "required": false,
+        "paramType": "1",
+        "mappingValue": "",
+        "minValue": null,
+        "dataMaskUrl": "",
+        "enumValue": "",
+        "children": [],
+        "maxListSize": "",
+        "id": 4198561,
+        "apiId": "304014",
+        "docVisible": false,
+        "paramOrder": "",
+        "moreLimit": "",
+        "maxValue": null,
+        "paramFrom": "2",
+        "sensitiveDataTag": "",
+        "maskField": "",
+        "serviceParamName": "msg",
+        "parentId": 4198559,
+        "dataSecurityLevel": "S2",
+        "serviceParamPath": "java.lang.String",
+        "mappingType": "1",
+        "regexExpression": "",
+        "constantValue": "",
+        "desc": "[{\"zh_CN\":\"msg\"},{\"en_US\":\"msg\"}]"
+       },
+       {
+        "serviceParamHttpType": "",
+        "serviceParamType": "1",
+        "hitLog": false,
+        "defaultValue": "",
+        "previewDemo": "",
+        "maxSize": "",
+        "paramName": "data",
+        "demo": "data",
+        "required": false,
+        "paramType": "1",
+        "mappingValue": "",
+        "minValue": null,
+        "dataMaskUrl": "",
+        "enumValue": "",
+        "children": [],
+        "maxListSize": "",
+        "id": 4198562,
+        "apiId": "304014",
+        "docVisible": false,
+        "paramOrder": "",
+        "moreLimit": "",
+        "maxValue": null,
+        "paramFrom": "2",
+        "sensitiveDataTag": "",
+        "maskField": "",
+        "serviceParamName": "data",
+        "parentId": 4198559,
+        "dataSecurityLevel": "S2",
+        "serviceParamPath": "java.lang.Boolean",
+        "mappingType": "1",
+        "regexExpression": "",
+        "constantValue": "",
+        "desc": "[{\"zh_CN\":\"data\"},{\"en_US\":\"data\"}]"
+       }
+      ],
+      "input": [
+       {
+        "serviceParamHttpType": "",
+        "serviceParamType": "1",
+        "hitLog": null,
+        "defaultValue": "",
+        "previewDemo": "",
+        "maxSize": "",
+        "paramName": "report_text",
+        "demo": "time=1640966400123&event=EXP",
+        "required": true,
+        "paramType": "String",
+        "mappingValue": "",
+        "minValue": null,
+        "dataMaskUrl": "",
+        "enumValue": "",
+        "children": [],
+        "maxListSize": "",
+        "id": 4198556,
+        "apiId": "304014",
+        "docVisible": true,
+        "paramOrder": "",
+        "moreLimit": "",
+        "maxValue": null,
+        "paramFrom": "1",
+        "sensitiveDataTag": "",
+        "maskField": "",
+        "serviceParamName": "reportText",
+        "parentId": 4198555,
+        "dataSecurityLevel": "S2",
+        "serviceParamPath": "java.lang.String",
+        "mappingType": "1",
+        "regexExpression": "",
+        "constantValue": "",
+        "desc": "[{\"zh_CN\":\"event content\"},{\"en_US\":\"out site event, for business analysis\"}]"
+       }
+      ],
+      "data": [],
+      "requestCodes": [
+       {
+        "code": "IopClient client = new IopClient(url, appkey, appSecret);\nIopRequest request = new IopRequest();\nrequest.setApiName(\"aliexpress.ds.search.event.report\");\nrequest.addApiParameter(\"report_text\", \"time=1640966400123&event=EXP\");\nIopResponse response = client.execute(request, Protocol.TOP);\nSystem.out.println(response.getBody());\nThread.sleep(10);\n",
+        "lang": "JAVA"
+       },
+       {
+        "code": "$c = new IopClient(url,appkey,appSecret);\n$request = new IopRequest('aliexpress.ds.search.event.report');\n$request->addApiParam('report_text','time=1640966400123&event=EXP');\nvar_dump($c->execute($request));\n",
+        "lang": "PHP"
+       },
+       {
+        "code": "IIopClient client = new IopClient(url, appkey, appSecret);\nIopRequest request = new IopRequest();\nrequest.SetApiName(\"aliexpress.ds.search.event.report\");\nrequest.AddApiParameter(\"report_text\", \"time=1640966400123&event=EXP\");\nIopResponse response = client.Execute(request);\nConsole.WriteLine(response.IsError());\nConsole.WriteLine(response.Body);\n",
+        "lang": ".NET"
+       },
+       {
+        "code": "client = IopApiClient::Client.new(url, appkey, appSecret)\nrequest = IopApiClient::Request.new('aliexpress.ds.search.event.report')\nrequest.add_api_parameter(\"report_text\", \"time=1640966400123&event=EXP\")\nresponse = client.execute(request)\nputs response.success?\nputs response.body\n",
+        "lang": "RUBY"
+       },
+       {
+        "code": "client = iop.IopClient(url, appkey ,appSecret)\nrequest = iop.IopRequest('aliexpress.ds.search.event.report')\nrequest.add_api_param('report_text', 'time=1640966400123&event=EXP')\nresponse = client.execute(request)\nprint(response.type)\nprint(response.body)\n",
+        "lang": "PYTHON"
+       },
+       {
+        "code": "curl -X POST url + 'aliexpress.ds.search.event.report' \\\n-H 'Content-Type:application/x-www-form-urlencoded;charset=utf-8' \\\n-d 'app_key=12345678' \\\n-d 'timestamp=1791607952968' \\\n-d 'sign_method=sha256' \\\n-d 'sign=D13F2A03BE94D9AAE9F933FFA7B13E0A5AD84A3DAEBC62A458A3C382EC2E91EC' \\\n-d 'report_text=time%3D1640966400123%26event%3DEXP' \\\n",
+        "lang": "CURL"
+       }
+      ],
+      "id": 2506,
+      "complexResponseCode": "{\n  \"code\": \"0\",\n  \"request_id\": \"0ba2887315178178017221014\",\n  \"aliexpress_ds_search_event_report_response\": {\n    \"msg\": \"msg\",\n    \"code\": \"code\",\n    \"data\": \"data\"\n  }\n}",
+      "title": "default demo example",
+      "content": "",
+      "responseCode": "{\n  \"msg\": \"msg\",\n  \"code\": \"0\",\n  \"data\": \"data\",\n  \"request_id\": \"0ba2887315178178017221014\"\n}"
+     }
+    ],
+    "id": 2506
+   },
+   "endpointParams": {
+    "data": [],
+    "id": 2507
+   },
+   "lastModified": "2024-11-05 15:54:36",
+   "parameters": {
+    "data": [
+     {
+      "treeId": 4198556,
+      "data": [],
+      "children": [],
+      "name": "report_text",
+      "id": 2507,
+      "type": "String",
+      "required": true,
+      "desc": "out site event, for business analysis"
+     }
+    ],
+    "id": 2507
+   },
+   "introduction": {
+    "data": [],
+    "id": null
+   },
+   "views": 3733,
+   "desc": "Used for report business event to help analysis out-site business CR. Will use AI to analysis the reported data and help you optimize your business ",
+   "outputParameters": {
+    "data": [
+     {
+      "treeId": 4198560,
+      "data": [],
+      "children": [],
+      "name": "code",
+      "id": 2509,
+      "type": "String",
+      "required": false,
+      "desc": "code"
+     },
+     {
+      "treeId": 4198561,
+      "data": [],
+      "children": [],
+      "name": "msg",
+      "id": 2509,
+      "type": "String",
+      "required": false,
+      "desc": "msg"
+     },
+     {
+      "treeId": 4198562,
+      "data": [],
+      "children": [],
+      "name": "data",
+      "id": 2509,
+      "type": "String",
+      "required": false,
+      "desc": "data"
+     }
+    ],
+    "id": 2509
+   }
+  }
+ ]
+}

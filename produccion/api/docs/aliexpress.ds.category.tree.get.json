@@ -1,0 +1,322 @@
+{
+ "score": "",
+ "sdkDownloadsLink": "https://ae-open-platform-public.oss-ap-southeast-1.aliyuncs.com/online/oss_1791522010760_0_Q63q.zip",
+ "suggestionList": [],
+ "id": 7634,
+ "lastModified": "2026-07-07 19:27:48",
+ "testToolLink": "https://openservice.aliexpress.com/app/index.htm#/api/test",
+ "viewCount": 2271,
+ "authType": 1,
+ "apiList": [
+  {
+   "chargeable": false,
+   "method": "GET/POST",
+   "docId": 7634,
+   "errorCodes": {
+    "data": [],
+    "id": null
+   },
+   "commonParameters": {
+    "data": [
+     {
+      "treeId": null,
+      "data": [],
+      "children": [],
+      "name": "app_key",
+      "id": null,
+      "type": "String",
+      "required": true,
+      "desc": "Unique app ID issued by AE Open Platform console when you apply for an app category"
+     },
+     {
+      "treeId": null,
+      "data": [],
+      "children": [],
+      "name": "timestamp",
+      "id": null,
+      "type": "String",
+      "required": true,
+      "desc": "The time stamp of the request e.g. 2022-04-28 10:46:37 (TOP Protocol) or 1651113997000 (GOP Protocol), with less than 7200s difference from UTC time"
+     },
+     {
+      "treeId": null,
+      "data": [],
+      "children": [],
+      "name": "access_token",
+      "id": null,
+      "type": "String",
+      "required": true,
+      "desc": "API interface call credentials"
+     },
+     {
+      "treeId": null,
+      "data": [],
+      "children": [],
+      "name": "sign_method",
+      "id": null,
+      "type": "String",
+      "required": true,
+      "desc": "The HMAC hash algorithm you are using to calculate your signature"
+     },
+     {
+      "treeId": null,
+      "data": [],
+      "children": [],
+      "name": "sign",
+      "id": null,
+      "type": "String",
+      "required": true,
+      "desc": "Part of the authentication process that is used for identifying and verifying who is sending a request (click <a target='_blank' href='https://developers.aliexpress.com/doc.htm?docId=107468&docType=1'>here</a> for details)"
+     }
+    ],
+    "id": 25335
+   },
+   "title": "AE DS Category Tree Get",
+   "path": "aliexpress.ds.category.tree.get",
+   "examples": {
+    "data": [
+     {
+      "output": [
+       {
+        "serviceParamHttpType": "",
+        "serviceParamType": "1",
+        "hitLog": false,
+        "defaultValue": "",
+        "previewDemo": "",
+        "maxSize": "",
+        "paramName": "rsp_code",
+        "demo": "200",
+        "required": false,
+        "paramType": "2",
+        "mappingValue": "",
+        "minValue": null,
+        "dataMaskUrl": "",
+        "enumValue": "",
+        "children": [],
+        "maxListSize": "",
+        "id": 4193038,
+        "apiId": "303932",
+        "docVisible": false,
+        "paramOrder": "",
+        "moreLimit": "",
+        "maxValue": null,
+        "paramFrom": "2",
+        "sensitiveDataTag": "",
+        "maskField": "",
+        "serviceParamName": "code",
+        "parentId": 4193037,
+        "dataSecurityLevel": "S2",
+        "serviceParamPath": "java.lang.Integer",
+        "mappingType": "1",
+        "regexExpression": "",
+        "constantValue": "",
+        "desc": "[{\"zh_CN\":\"响应码\"},{\"en_US\":\"response code\"}]"
+       },
+       {
+        "serviceParamHttpType": "",
+        "serviceParamType": "1",
+        "hitLog": false,
+        "defaultValue": "",
+        "previewDemo": "",
+        "maxSize": "",
+        "paramName": "rsp_msg",
+        "demo": "Call succeeds",
+        "required": false,
+        "paramType": "1",
+        "mappingValue": "",
+        "minValue": null,
+        "dataMaskUrl": "",
+        "enumValue": "",
+        "children": [],
+        "maxListSize": "",
+        "id": 4193039,
+        "apiId": "303932",
+        "docVisible": false,
+        "paramOrder": "",
+        "moreLimit": "",
+        "maxValue": null,
+        "paramFrom": "2",
+        "sensitiveDataTag": "",
+        "maskField": "",
+        "serviceParamName": "msg",
+        "parentId": 4193037,
+        "dataSecurityLevel": "S2",
+        "serviceParamPath": "java.lang.String",
+        "mappingType": "1",
+        "regexExpression": "",
+        "constantValue": "",
+        "desc": "[{\"zh_CN\":\"响应信息\"},{\"en_US\":\"response message\"}]"
+       },
+       {
+        "serviceParamHttpType": "",
+        "serviceParamType": "1",
+        "hitLog": false,
+        "defaultValue": "",
+        "previewDemo": "",
+        "maxSize": "",
+        "paramName": "result",
+        "demo": "[     {       \"children\": [         {           \"children\": [             {               \"level\": 3,               \"name\": \"油\",               \"id\": 200181142,               \"isleaf\": true             },             {               \"children\": [                 {                   \"level\": 4,                   \"name\": \"冰冻果子露和冰\",                   \"id\": 201374004,                   \"isleaf\": true                 },                 {                   \"level\": 4,                   \"name\": \"奶油状\",                   \"id\": 201372202,                   \"isleaf\": true                 },                 // ... 更多4级类目               ],               \"level\": 3,               \"name\": \"冰淇淋\",               \"id\": 201372003,               \"isleaf\": false             }           ],           \"level\": 2,           \"name\": \"杂货\",           \"id\": 200180142,           \"isleaf\": false,           \"_children_truncated\": \"共 15 个子节点，仅展示前 2 个\"         },         // ... 更多2级类目       ],       \"level\": 1,       \"name\": \"食品\",       \"id\": 2,       \"isleaf\": false,       \"_children_truncated\": \"共 21 个子节点，仅展示前 2 个\"     },     // ... 更多一级类目   ]",
+        "required": false,
+        "paramType": "1",
+        "mappingValue": "",
+        "minValue": null,
+        "dataMaskUrl": "",
+        "enumValue": "",
+        "children": [],
+        "maxListSize": "",
+        "id": 4193040,
+        "apiId": "303932",
+        "docVisible": false,
+        "paramOrder": "",
+        "moreLimit": "",
+        "maxValue": null,
+        "paramFrom": "2",
+        "sensitiveDataTag": "",
+        "maskField": "",
+        "serviceParamName": "result",
+        "parentId": 4193037,
+        "dataSecurityLevel": "S2",
+        "serviceParamPath": "java.lang.String",
+        "mappingType": "1",
+        "regexExpression": "",
+        "constantValue": "",
+        "desc": "[{\"zh_CN\":\"结果\"},{\"en_US\":\"result\"}]"
+       }
+      ],
+      "input": [
+       {
+        "serviceParamHttpType": "",
+        "serviceParamType": "1",
+        "hitLog": false,
+        "defaultValue": "",
+        "previewDemo": "",
+        "maxSize": "",
+        "paramName": "lang",
+        "demo": "en_US",
+        "required": true,
+        "paramType": "String",
+        "mappingValue": "",
+        "minValue": null,
+        "dataMaskUrl": "",
+        "enumValue": "",
+        "children": [],
+        "maxListSize": "",
+        "id": 4193363,
+        "apiId": "303932",
+        "docVisible": true,
+        "paramOrder": "",
+        "moreLimit": "",
+        "maxValue": null,
+        "paramFrom": "1",
+        "sensitiveDataTag": "",
+        "maskField": "",
+        "serviceParamName": "",
+        "parentId": 0,
+        "dataSecurityLevel": "S2",
+        "serviceParamPath": "java.lang.String",
+        "mappingType": "1",
+        "regexExpression": "",
+        "constantValue": "",
+        "desc": "[{\"zh_CN\":\"语言\"},{\"en_US\":\"language\"}]"
+       }
+      ],
+      "data": [],
+      "requestCodes": [
+       {
+        "code": "IopClient client = new IopClient(url, appkey, appSecret);\nIopRequest request = new IopRequest();\nrequest.setApiName(\"aliexpress.ds.category.tree.get\");\nrequest.addApiParameter(\"lang\", \"en_US\");\nIopResponse response = client.execute(request, accessToken, Protocol.TOP);\nSystem.out.println(response.getBody());\nThread.sleep(10);\n",
+        "lang": "JAVA"
+       },
+       {
+        "code": "$c = new IopClient(url,appkey,appSecret);\n$request = new IopRequest('aliexpress.ds.category.tree.get');\n$request->addApiParam('lang','en_US');\nvar_dump($c->execute($request, $accessToken));\n",
+        "lang": "PHP"
+       },
+       {
+        "code": "IIopClient client = new IopClient(url, appkey, appSecret);\nIopRequest request = new IopRequest();\nrequest.SetApiName(\"aliexpress.ds.category.tree.get\");\nrequest.AddApiParameter(\"lang\", \"en_US\");\nIopResponse response = client.Execute(request, accessToken);\nConsole.WriteLine(response.IsError());\nConsole.WriteLine(response.Body);\n",
+        "lang": ".NET"
+       },
+       {
+        "code": "client = IopApiClient::Client.new(url, appkey, appSecret)\nrequest = IopApiClient::Request.new('aliexpress.ds.category.tree.get')\nrequest.add_api_parameter(\"lang\", \"en_US\")\nresponse = client.execute(request, accessToken)\nputs response.success?\nputs response.body\n",
+        "lang": "RUBY"
+       },
+       {
+        "code": "client = iop.IopClient(url, appkey ,appSecret)\nrequest = iop.IopRequest('aliexpress.ds.category.tree.get')\nrequest.add_api_param('lang', 'en_US')\nresponse = client.execute(request, access_token)\nprint(response.type)\nprint(response.body)\n",
+        "lang": "PYTHON"
+       },
+       {
+        "code": "curl -X POST url + 'aliexpress.ds.category.tree.get' \\\n-H 'Content-Type:application/x-www-form-urlencoded;charset=utf-8' \\\n-d 'app_key=12345678' \\\n-d 'timestamp=1791607948313' \\\n-d 'access_token=37c66819338b4562e17675b8c5c4dbd0' \\\n-d 'sign_method=sha256' \\\n-d 'sign=D13F2A03BE94D9AAE9F933FFA7B13E0A5AD84A3DAEBC62A458A3C382EC2E91EC' \\\n-d 'lang=en_US' \\\n",
+        "lang": "CURL"
+       }
+      ],
+      "id": 25334,
+      "complexResponseCode": "{\n  \"code\": \"0\",\n  \"aliexpress_ds_category_tree_get_response\": {\n    \"result\": \"[     {       \\\"children\\\": [         {           \\\"children\\\": [             {               \\\"level\\\": 3,               \\\"name\\\": \\\"油\\\",               \\\"id\\\": 200181142,               \\\"isleaf\\\": true             },             {               \\\"children\\\": [                 {                   \\\"level\\\": 4,                   \\\"name\\\": \\\"冰冻果子露和冰\\\",                   \\\"id\\\": 201374004,                   \\\"isleaf\\\": true                 },                 {                   \\\"level\\\": 4,                   \\\"name\\\": \\\"奶油状\\\",                   \\\"id\\\": 201372202,                   \\\"isleaf\\\": true                 },                 // ... 更多4级类目               ],               \\\"level\\\": 3,               \\\"name\\\": \\\"冰淇淋\\\",               \\\"id\\\": 201372003,               \\\"isleaf\\\": false             }           ],           \\\"level\\\": 2,           \\\"name\\\": \\\"杂货\\\",           \\\"id\\\": 200180142,           \\\"isleaf\\\": false,           \\\"_children_truncated\\\": \\\"共 15 个子节点，仅展示前 2 个\\\"         },         // ... 更多2级类目       ],       \\\"level\\\": 1,       \\\"name\\\": \\\"食品\\\",       \\\"id\\\": 2,       \\\"isleaf\\\": false,       \\\"_children_truncated\\\": \\\"共 21 个子节点，仅展示前 2 个\\\"     },     // ... 更多一级类目   ]\",\n    \"rsp_code\": \"200\",\n    \"rsp_msg\": \"Call succeeds\"\n  },\n  \"request_id\": \"0ba2887315178178017221014\"\n}",
+      "title": "default demo example",
+      "content": "",
+      "responseCode": "{\n  \"result\": \"[     {       \\\"children\\\": [         {           \\\"children\\\": [             {               \\\"level\\\": 3,               \\\"name\\\": \\\"油\\\",               \\\"id\\\": 200181142,               \\\"isleaf\\\": true             },             {               \\\"children\\\": [                 {                   \\\"level\\\": 4,                   \\\"name\\\": \\\"冰冻果子露和冰\\\",                   \\\"id\\\": 201374004,                   \\\"isleaf\\\": true                 },                 {                   \\\"level\\\": 4,                   \\\"name\\\": \\\"奶油状\\\",                   \\\"id\\\": 201372202,                   \\\"isleaf\\\": true                 },                 // ... 更多4级类目               ],               \\\"level\\\": 3,               \\\"name\\\": \\\"冰淇淋\\\",               \\\"id\\\": 201372003,               \\\"isleaf\\\": false             }           ],           \\\"level\\\": 2,           \\\"name\\\": \\\"杂货\\\",           \\\"id\\\": 200180142,           \\\"isleaf\\\": false,           \\\"_children_truncated\\\": \\\"共 15 个子节点，仅展示前 2 个\\\"         },         // ... 更多2级类目       ],       \\\"level\\\": 1,       \\\"name\\\": \\\"食品\\\",       \\\"id\\\": 2,       \\\"isleaf\\\": false,       \\\"_children_truncated\\\": \\\"共 21 个子节点，仅展示前 2 个\\\"     },     // ... 更多一级类目   ]\",\n  \"code\": \"0\",\n  \"rsp_code\": \"200\",\n  \"rsp_msg\": \"Call succeeds\",\n  \"request_id\": \"0ba2887315178178017221014\"\n}"
+     }
+    ],
+    "id": 25334
+   },
+   "endpointParams": {
+    "data": [],
+    "id": 25335
+   },
+   "lastModified": "2026-07-07 19:27:48",
+   "parameters": {
+    "data": [
+     {
+      "treeId": 4193363,
+      "data": [],
+      "children": [],
+      "name": "lang",
+      "id": 25335,
+      "type": "String",
+      "required": true,
+      "desc": "language"
+     }
+    ],
+    "id": 25335
+   },
+   "introduction": {
+    "data": [],
+    "id": null
+   },
+   "views": 2271,
+   "desc": "AE DS Category Tree Get",
+   "outputParameters": {
+    "data": [
+     {
+      "treeId": 4193038,
+      "data": [],
+      "children": [],
+      "name": "rsp_code",
+      "id": 25337,
+      "type": "Number",
+      "required": false,
+      "desc": "response code"
+     },
+     {
+      "treeId": 4193039,
+      "data": [],
+      "children": [],
+      "name": "rsp_msg",
+      "id": 25337,
+      "type": "String",
+      "required": false,
+      "desc": "response message"
+     },
+     {
+      "treeId": 4193040,
+      "data": [],
+      "children": [],
+      "name": "result",
+      "id": 25337,
+      "type": "String",
+      "required": false,
+      "desc": "result"
+     }
+    ],
+    "id": 25337
+   }
+  }
+ ]
+}
