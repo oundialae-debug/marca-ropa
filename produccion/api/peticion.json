@@ -1,232 +1,436 @@
 {
- "id": 12,
+ "id": 13,
  "llamadas": [
   {
-   "method": "aliexpress.ds.freight.query",
+   "method": "aliexpress.ds.text.search",
    "params": {
-    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"GB\", \"productId\": \"1005002864337827\", \"selectedSkuId\": \"12000022515810183\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
-   }
-  },
-  {
-   "method": "aliexpress.ds.freight.query",
-   "params": {
-    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"FR\", \"productId\": \"1005002864337827\", \"selectedSkuId\": \"12000022515810183\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
-   }
-  },
-  {
-   "method": "aliexpress.ds.freight.query",
-   "params": {
-    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"DE\", \"productId\": \"1005002864337827\", \"selectedSkuId\": \"12000022515810183\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
-   }
-  },
-  {
-   "method": "aliexpress.ds.freight.query",
-   "params": {
-    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"NL\", \"productId\": \"1005002864337827\", \"selectedSkuId\": \"12000022515810183\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
-   }
-  },
-  {
-   "method": "aliexpress.ds.freight.query",
-   "params": {
-    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"IT\", \"productId\": \"1005002864337827\", \"selectedSkuId\": \"12000022515810183\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
-   }
-  },
-  {
-   "method": "aliexpress.ds.freight.query",
-   "params": {
-    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"GB\", \"productId\": \"1005011722159135\", \"selectedSkuId\": \"12000056353173805\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
-   }
-  },
-  {
-   "method": "aliexpress.ds.freight.query",
-   "params": {
-    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"FR\", \"productId\": \"1005011722159135\", \"selectedSkuId\": \"12000056353173805\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
-   }
-  },
-  {
-   "method": "aliexpress.ds.freight.query",
-   "params": {
-    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"DE\", \"productId\": \"1005011722159135\", \"selectedSkuId\": \"12000056353173805\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
-   }
-  },
-  {
-   "method": "aliexpress.ds.freight.query",
-   "params": {
-    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"NL\", \"productId\": \"1005011722159135\", \"selectedSkuId\": \"12000056353173805\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
-   }
-  },
-  {
-   "method": "aliexpress.ds.freight.query",
-   "params": {
-    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"IT\", \"productId\": \"1005011722159135\", \"selectedSkuId\": \"12000056353173805\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "5"
    }
   },
   {
    "method": "aliexpress.ds.text.search",
    "params": {
-    "keyWord": "plain long scarf",
+    "keyWord": "hijab",
+    "categoryId": "200003922",
     "local": "es_ES",
     "countryCode": "FR",
     "currency": "EUR",
     "pageSize": "50",
-    "pageIndex": "1",
-    "sortBy": "orders,desc"
+    "pageIndex": "6"
    }
   },
   {
    "method": "aliexpress.ds.text.search",
    "params": {
-    "keyWord": "plain long scarf",
+    "keyWord": "hijab",
+    "categoryId": "200003922",
     "local": "es_ES",
     "countryCode": "FR",
     "currency": "EUR",
     "pageSize": "50",
-    "pageIndex": "2",
-    "sortBy": "orders,desc"
+    "pageIndex": "7"
    }
   },
   {
    "method": "aliexpress.ds.text.search",
    "params": {
-    "keyWord": "jersey scarf women",
+    "keyWord": "hijab",
+    "categoryId": "200003922",
     "local": "es_ES",
     "countryCode": "FR",
     "currency": "EUR",
     "pageSize": "50",
-    "pageIndex": "1",
-    "sortBy": "orders,desc"
+    "pageIndex": "8"
    }
   },
   {
    "method": "aliexpress.ds.text.search",
    "params": {
-    "keyWord": "jersey scarf women",
+    "keyWord": "hijab",
+    "categoryId": "200003922",
     "local": "es_ES",
     "countryCode": "FR",
     "currency": "EUR",
     "pageSize": "50",
-    "pageIndex": "2",
-    "sortBy": "orders,desc"
+    "pageIndex": "9"
    }
   },
   {
    "method": "aliexpress.ds.text.search",
    "params": {
-    "keyWord": "modal scarf solid",
+    "keyWord": "hijab",
+    "categoryId": "200003922",
     "local": "es_ES",
     "countryCode": "FR",
     "currency": "EUR",
     "pageSize": "50",
-    "pageIndex": "1",
-    "sortBy": "orders,desc"
+    "pageIndex": "10"
    }
   },
   {
    "method": "aliexpress.ds.text.search",
    "params": {
-    "keyWord": "modal scarf solid",
+    "keyWord": "hijab",
+    "categoryId": "200003922",
     "local": "es_ES",
     "countryCode": "FR",
     "currency": "EUR",
     "pageSize": "50",
-    "pageIndex": "2",
-    "sortBy": "orders,desc"
+    "pageIndex": "11"
    }
   },
   {
    "method": "aliexpress.ds.text.search",
    "params": {
-    "keyWord": "viscose scarf plain",
+    "keyWord": "hijab",
+    "categoryId": "200003922",
     "local": "es_ES",
     "countryCode": "FR",
     "currency": "EUR",
     "pageSize": "50",
-    "pageIndex": "1",
-    "sortBy": "orders,desc"
+    "pageIndex": "12"
    }
   },
   {
    "method": "aliexpress.ds.text.search",
    "params": {
-    "keyWord": "viscose scarf plain",
+    "keyWord": "hijab",
+    "categoryId": "200003922",
     "local": "es_ES",
     "countryCode": "FR",
     "currency": "EUR",
     "pageSize": "50",
-    "pageIndex": "2",
-    "sortBy": "orders,desc"
+    "pageIndex": "13"
    }
   },
   {
    "method": "aliexpress.ds.text.search",
    "params": {
-    "keyWord": "cotton scarf solid long",
+    "keyWord": "hijab",
+    "categoryId": "200003922",
     "local": "es_ES",
     "countryCode": "FR",
     "currency": "EUR",
     "pageSize": "50",
-    "pageIndex": "1",
-    "sortBy": "orders,desc"
+    "pageIndex": "14"
    }
   },
   {
    "method": "aliexpress.ds.text.search",
    "params": {
-    "keyWord": "cotton scarf solid long",
+    "keyWord": "hijab",
+    "categoryId": "200003922",
     "local": "es_ES",
     "countryCode": "FR",
     "currency": "EUR",
     "pageSize": "50",
-    "pageIndex": "2",
-    "sortBy": "orders,desc"
+    "pageIndex": "15"
    }
   },
   {
    "method": "aliexpress.ds.text.search",
    "params": {
-    "keyWord": "rayon shawl solid",
+    "keyWord": "hijab",
+    "categoryId": "200003922",
     "local": "es_ES",
     "countryCode": "FR",
     "currency": "EUR",
     "pageSize": "50",
-    "pageIndex": "1",
-    "sortBy": "orders,desc"
+    "pageIndex": "16"
    }
   },
   {
    "method": "aliexpress.ds.text.search",
    "params": {
-    "keyWord": "rayon shawl solid",
+    "keyWord": "jersey",
+    "categoryId": "200003922",
     "local": "es_ES",
     "countryCode": "FR",
     "currency": "EUR",
     "pageSize": "50",
-    "pageIndex": "2",
-    "sortBy": "orders,desc"
+    "pageIndex": "5"
    }
   },
   {
    "method": "aliexpress.ds.text.search",
    "params": {
-    "keyWord": "crinkle scarf",
+    "keyWord": "jersey",
+    "categoryId": "200003922",
     "local": "es_ES",
     "countryCode": "FR",
     "currency": "EUR",
     "pageSize": "50",
-    "pageIndex": "1",
-    "sortBy": "orders,desc"
+    "pageIndex": "6"
    }
   },
   {
    "method": "aliexpress.ds.text.search",
    "params": {
-    "keyWord": "crinkle scarf",
+    "keyWord": "jersey",
+    "categoryId": "200003922",
     "local": "es_ES",
     "countryCode": "FR",
     "currency": "EUR",
     "pageSize": "50",
-    "pageIndex": "2",
-    "sortBy": "orders,desc"
+    "pageIndex": "7"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "8"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "9"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "10"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "11"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "12"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "13"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "14"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "15"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "16"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "5"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "6"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "7"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "8"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "9"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "10"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "11"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "12"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "13"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "14"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "15"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "16"
    }
   }
  ]
