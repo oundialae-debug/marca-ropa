@@ -1,11 +1,20 @@
 {
- "pedido": 1,
- "fecha": "2026-10-10 03:44:37",
+ "pedido": 2,
+ "fecha": "2026-10-10 03:49:17",
  "respuestas": [
   {
    "llamada": {
+    "tipo": "token"
+   },
+   "respuesta": {
+    "ok": true,
+    "cuenta": "elitemakebeats@gmail.com",
+    "caduca_ms": 1791690559000
+   }
+  },
+  {
+   "llamada": {
     "method": "aliexpress.ds.text.search",
-    "token": false,
     "params": {
      "keyWord": "jersey hijab",
      "local": "es_ES",
@@ -16,12 +25,124 @@
     }
    },
    "respuesta": {
-    "error_response": {
-     "type": "ISV",
-     "code": "IncompleteSignature",
-     "msg": "The request signature does not conform to platform standards",
-     "request_id": "0baf014817916038787336245",
-     "_trace_id_": "21013cc017916038787322517e0f3f"
+    "aliexpress_ds_text_search_response": {
+     "code": "00",
+     "data": {
+      "pageIndex": 1,
+      "pageSize": 5,
+      "totalCount": 13424,
+      "products": {
+       "selection_search_product": [
+        {
+         "originalPrice": "80.91",
+         "originalPriceCurrency": "CNY",
+         "salePrice": "40.31",
+         "discount": "0%",
+         "itemMainPic": "https://ae-pic-a1.aliexpress-media.com/kf/S6723d080ebea4579b584375ab55c0025R.jpg",
+         "title": "Jersey islámico musulmán, bufanda Hijab de Modal, hiyab instantáneo, pañuelos para la cabeza para mujer, pañuelos largos, chal para la cabeza, gorro Hijabe para mujer",
+         "type": "search",
+         "score": "4.3",
+         "itemId": "1005009033127386",
+         "targetSalePrice": "5.49",
+         "cateId": "200000345,201515701,200003922",
+         "targetOriginalPriceCurrency": "EUR",
+         "originMinPrice": "{\"thousandsChar\":\".\",\"shipToCountry\":\"ES\",\"decimalPointChar\":\",\",\"cent\":549,\"currencySymbolPosition\":\"end\",\"currencySymbol\":\"€\",\"showDecimal\":true,\"decimalStr\":\"49\",\"currencyCode\":\"EUR\",\"version\":\"V1\",\"formatPrice\":\"5,49€\",\"integerStr\":\"5\"}",
+         "evaluateRate": "86.7",
+         "salePriceFormat": "5,49€",
+         "orders": "30",
+         "targetOriginalPrice": "11.02",
+         "itemUrl": "//www.aliexpress.com/item/1005009033127386.html?skuId=12000047653181170&pdp_ext_f=%7B%22sku_id%22%3A%2212000047653181170%22%7D?appkey=552384",
+         "salePriceCurrency": "CNY"
+        },
+        {
+         "originalPrice": "74.30",
+         "originalPriceCurrency": "CNY",
+         "salePrice": "54.26",
+         "discount": "0%",
+         "itemMainPic": "https://ae-pic-a1.aliexpress-media.com/kf/S29ed5ac13f294cf7b2bcca9e3169870cS.jpg",
+         "title": "Jersey moda musulmana mujeres Hijab con bufanda larga de diamantes de imitación chal turco pañuelo para la cabeza bufandas señoras turbante árabe diadema",
+         "type": "search",
+         "score": "",
+         "itemId": "1005006096163578",
+         "targetSalePrice": "7.39",
+         "cateId": "200000345,201515701,200003922",
+         "targetOriginalPriceCurrency": "EUR",
+         "originMinPrice": "{\"thousandsChar\":\".\",\"shipToCountry\":\"ES\",\"decimalPointChar\":\",\",\"cent\":739,\"currencySymbolPosition\":\"end\",\"currencySymbol\":\"€\",\"showDecimal\":true,\"decimalStr\":\"39\",\"currencyCode\":\"EUR\",\"version\":\"V1\",\"formatPrice\":\"7,39€\",\"integerStr\":\"7\"}",
+         "evaluateRate": "",
+         "salePriceFormat": "7,39€",
+         "orders": "1",
+         "targetOriginalPrice": "10.12",
+         "itemUrl": "//www.aliexpress.com/item/1005006096163578.html?skuId=12000035721324954&pdp_ext_f=%7B%22sku_id%22%3A%2212000035721324954%22%2C%22tabScene%22%3A%22wholesale%22%7D?appkey=552384",
+         "salePriceCurrency": "CNY"
+        },
+        {
+         "originalPrice": "158.15",
+         "originalPriceCurrency": "CNY",
+         "salePrice": "79.19",
+         "discount": "0%",
+         "itemMainPic": "https://ae-pic-a1.aliexpress-media.com/kf/S71636ce425004346a83325a3467d244bX.jpg",
+         "title": "Hiyab islámico musulmán de jersey modal, hiyab instantáneo, pañuelos para la cabeza para mujer, pañuelos largos, chal, gorro, hiyab femenino",
+         "type": "search",
+         "score": "4.3",
+         "itemId": "1005012380370558",
+         "targetSalePrice": "10.79",
+         "cateId": "200000345,201515701,200003922",
+         "targetOriginalPriceCurrency": "EUR",
+         "originMinPrice": "{\"thousandsChar\":\".\",\"shipToCountry\":\"ES\",\"decimalPointChar\":\",\",\"cent\":1149,\"currencySymbolPosition\":\"end\",\"currencySymbol\":\"€\",\"showDecimal\":true,\"decimalStr\":\"49\",\"currencyCode\":\"EUR\",\"version\":\"V1\",\"formatPrice\":\"11,49€\",\"integerStr\":\"11\"}",
+         "evaluateRate": "86.7",
+         "salePriceFormat": "11,49€",
+         "orders": "22",
+         "targetOriginalPrice": "21.54",
+         "itemUrl": "//www.aliexpress.com/item/1005012380370558.html?skuId=12000058238272524&pdp_ext_f=%7B%22sku_id%22%3A%2212000058238272524%22%7D?appkey=552384",
+         "salePriceCurrency": "CNY"
+        },
+        {
+         "originalPrice": "61.75",
+         "originalPriceCurrency": "CNY",
+         "salePrice": "30.79",
+         "discount": "0%",
+         "itemMainPic": "https://ae-pic-a1.aliexpress-media.com/kf/S8f0b946918bf40238b0f3fe36f5819baM.jpg",
+         "title": "Gorro Interior Musulmán de Algodón Jersey con Orificio para las Orejas, Color Sólido, Gorro Interior para Hiyab, Parte Delantera Redonda, Gorro Interior para Mujer Musulmana",
+         "type": "search",
+         "score": "",
+         "itemId": "1005012724209002",
+         "targetSalePrice": "4.19",
+         "cateId": "200000297,200000402,200000447",
+         "targetOriginalPriceCurrency": "EUR",
+         "originMinPrice": "{\"thousandsChar\":\".\",\"shipToCountry\":\"ES\",\"decimalPointChar\":\",\",\"cent\":419,\"currencySymbolPosition\":\"end\",\"currencySymbol\":\"€\",\"showDecimal\":true,\"decimalStr\":\"19\",\"currencyCode\":\"EUR\",\"version\":\"V1\",\"formatPrice\":\"4,19€\",\"integerStr\":\"4\"}",
+         "evaluateRate": "",
+         "salePriceFormat": "4,19€",
+         "orders": "1",
+         "targetOriginalPrice": "8.41",
+         "itemUrl": "//www.aliexpress.com/item/1005012724209002.html?skuId=12000059155343089&pdp_ext_f=%7B%22sku_id%22%3A%2212000059155343089%22%7D?appkey=552384",
+         "salePriceCurrency": "CNY"
+        },
+        {
+         "originalPrice": "61.53",
+         "originalPriceCurrency": "CNY",
+         "salePrice": "30.77",
+         "discount": "0%",
+         "itemMainPic": "https://ae-pic-a1.aliexpress-media.com/kf/Se3ec6da0d1ad468f9fc4d33e634734b9U.jpg",
+         "title": "Jersey con cordón para mujer musulmana, gorro Hijab con orificio para la oreja, gorro Hijab interior, pañuelo interior redondo para la frente, capó femenino musulman",
+         "type": "search",
+         "score": "4.4",
+         "itemId": "1005007943007862",
+         "targetSalePrice": "4.19",
+         "cateId": "200000345,201515701,200003922",
+         "targetOriginalPriceCurrency": "EUR",
+         "originMinPrice": "{\"thousandsChar\":\".\",\"shipToCountry\":\"ES\",\"decimalPointChar\":\",\",\"cent\":419,\"currencySymbolPosition\":\"end\",\"currencySymbol\":\"€\",\"showDecimal\":true,\"decimalStr\":\"19\",\"currencyCode\":\"EUR\",\"version\":\"V1\",\"formatPrice\":\"4,19€\",\"integerStr\":\"4\"}",
+         "evaluateRate": "88.3",
+         "salePriceFormat": "4,19€",
+         "orders": "16",
+         "targetOriginalPrice": "8.38",
+         "itemUrl": "//www.aliexpress.com/item/1005007943007862.html?skuId=12000042956134539&pdp_ext_f=%7B%22sku_id%22%3A%2212000042956134539%22%2C%22tabScene%22%3A%22wholesale%22%7D?appkey=552384",
+         "salePriceCurrency": "CNY"
+        }
+       ]
+      }
+     },
+     "request_id": "210155bd17916041598484411",
+     "_trace_id_": "2140f89017916041598463392e10bd"
     }
    }
   }
