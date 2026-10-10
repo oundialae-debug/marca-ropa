@@ -48,3 +48,16 @@ Revisado el **stock por color** con la API (≥100 ud. por color = disponible).
 - El crinkle creado por Producción **no está enlazado en DSers**: antes de vender, en DSers → *Mapping* del producto, pegar `https://www.aliexpress.com/item/1005006645829730.html`. Los SKU de Shopify llevan el ID de variante de AliExpress (`AE-producto-sku`).
 - Precio de venta = coste provisional; lo fija el chat **Producto**. El campo "coste por artículo" ya tiene el coste del proveedor.
 - Faltan negro y blanco/crema en jersey con buen stock: buscar con la API.
+
+## Búsqueda ampliada (10/10/2026, 06:30)
+El catálogo de dropshipping de la API en la categoría hiyabs tiene ~240 productos (12 páginas). Revisados todos los hiyabs largos con ≥80 ventas y nota ≥4,5:
+| producto | ID | resultado |
+|---|---|---|
+| Set hiyab modal + gorro (GELMOIN, 4,9★, 577 reseñas, 2.000+) | 1005009107242857 | ✅ **premium**: 66 colores con stock (beige, blanco, azul marino…), pero envío 6-8,5 € por pedido (no Choice). Para vender en packs o a precio alto. |
+| Hiyab cobertura completa elástico (5,0★, 9 reseñas, 117) | 1005002864337827 | ⚠️ reserva: 16 colores con stock (incl. negro), envío 2,15-2,86 € pero hasta 17 días; pocas reseñas |
+| Jersey líquido premium (GELMOIN) | 1005011722159135 | ❌ envío 7,7-10 € y no envía a UK |
+| Algodón voile fino / rayón voile (2) | 1005006421100014, 1005011536840709 | ❌ tejido fino (riesgo de transparencia) |
+| Gasa SANMAIHUA | 1005004710849831 | ❌ gasa |
+| Instantáneos, gorros, jersey acanalado, pañuelo largo con lazo (6) | varios | ❌ sin stock |
+
+**Conclusión:** con el catálogo de la API salen **6** (4 + set GELMOIN + reserva). Para llegar a 10-12: la usuaria pega enlaces de AliExpress que le gusten y Producción los verifica con la API al momento (stock por color, nota, envío).
