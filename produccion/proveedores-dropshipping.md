@@ -40,3 +40,14 @@ Pedir **muestras de 2-3 proveedores** y probar: opacidad (a contraluz y con flas
 - Moda Fashion Dropship (no disponible): https://apps.shopify.com/moda-dropship
 - ModestShop: https://modestshop.com/
 - AliExpress modest: https://findniche.com/aliexpress/wholesale-modest-clothing-dropshipping
+
+## Plataformas revisadas el 10/10/2026 (para hiyabs, fase 1)
+| plataforma | qué es | envío a EU/UK | coste | ¿hiyabs? | veredicto |
+|---|---|---|---|---|---|
+| **Hertwill** | marketplace de marcas con almacenes en la UE, UK y EE. UU. | UE 3-8 días laborables, UK 4-10; desde la UE **sin arancel de 3 €** | gratis hasta 5 productos y 10 pedidos/mes; luego 19,99-49,99 $/mes | no se ve sin cuenta (catálogo con login); en la búsqueda pública no sale ninguno | **Probar con la cuenta gratis**: buscar *hijab, headscarf, scarf* |
+| **EPROLO** | dropshipping desde China + almacenes en UK, FR, IT | 7-15 días | sin cuota; empaquetado con marca | no confirmado (catálogo con login) | Parecido a CJ; solo si CJ no responde bien |
+| **Shein** | tienda para clientes, no proveedor | — | — | sí, pero no sirve | ❌ No tiene programa de dropshipping, sus condiciones en UE/UK prohíben revender y envía con su marca; riesgo de cierre de cuenta |
+| **Zendrop** | dropshipping, sobre todo desde China | 1-2 semanas a la UE; no consta almacén en la UE | plan gratis hasta 50 pedidos/mes; luego de pago | no consta | ❌ No mejora a CJ ni a AliExpress |
+| **AutoDS** | herramienta (no proveedor) que conecta AliExpress, Amazon, Shein… | depende del proveedor | desde 26,90 $/mes | los mismos que AliExpress | ❌ Hace lo mismo que DSers, que es gratis |
+
+Fuentes: hertwill.com/faqs, apps.shopify.com/hertwill, eprolo.com/dropshipping-suppliers-europe, nichedropshipping.com/shein-dropshipping, spocket.co/blogs/does-zendrop-ship-to-the-eu, apps.shopify.com/AutoDS.
