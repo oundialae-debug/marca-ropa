@@ -51,6 +51,7 @@ def main():
     req = json.load(open(os.path.join(BASE, "peticion.json")))
     out = {"pedido": req.get("id"), "fecha": time.strftime("%Y-%m-%d %H:%M:%S"), "respuestas": []}
     for c in req["llamadas"]:
+        time.sleep(0.6)  # evita ApiCallLimit
         try:
             if c.get("tipo") == "token":  # canjear el código de autorización
                 r = call(path="/auth/token/create", params={"code": c["code"]}, use_token=False)
