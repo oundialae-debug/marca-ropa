@@ -1,0 +1,29 @@
+{
+ "pedido": 1,
+ "fecha": "2026-10-10 03:44:37",
+ "respuestas": [
+  {
+   "llamada": {
+    "method": "aliexpress.ds.text.search",
+    "token": false,
+    "params": {
+     "keyWord": "jersey hijab",
+     "local": "es_ES",
+     "countryCode": "ES",
+     "currency": "EUR",
+     "pageSize": "5",
+     "pageIndex": "1"
+    }
+   },
+   "respuesta": {
+    "error_response": {
+     "type": "ISV",
+     "code": "IncompleteSignature",
+     "msg": "The request signature does not conform to platform standards",
+     "request_id": "0baf014817916038787336245",
+     "_trace_id_": "21013cc017916038787322517e0f3f"
+    }
+   }
+  }
+ ]
+}
