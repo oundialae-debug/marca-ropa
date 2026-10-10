@@ -58,6 +58,6 @@ Precios de hiyab jersey en la competencia:
 - En la UE, 24,90-29,90 € por un hiyab sin marca está **por encima incluso de las tiendas premium**. Al precio del mercado (~15 €), cada venta suelta **pierde dinero**, porque el coste puesto en España ya es 12-15 €.
 - El pack a 59,90 € (20 €/ud) también queda caro. Un pack a 44,90 € (15 €/ud) deja solo 7-12 €.
 - En UK los precios de las marcas (19-24 £) y el coste sin arancel (8-11 €) sí dejan margen, pero se compite contra marcas con nombre.
-- **El problema es el coste de entrada a la UE** (arancel de 3 € + IVA por envío), no el precio. Los precios de este archivo **no se aprueban** hasta revisar el proveedor.
+- **El problema es el coste de entrada a la UE** (arancel de 3 € + IVA por envío), no el precio. Producción revisó proveedores con stock en la UE y no encontró hiyabs útiles (10/10/2026), así que se sigue con China y se compensa con los packs (v2, arriba).
 
 Fuentes: monhijabpascher.com, neyssa-shop.com, alanoorcollection.com, sabrmastour.com, johnlewis.com (Aab), hautehijab.com.
