@@ -1,355 +1,130 @@
 {
- "id": 4,
+ "id": 5,
  "llamadas": [
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "1",
-    "sortBy": "orders,desc"
+    "product_id": "1005009107242857",
+    "ship_to_country": "ES",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "2",
-    "sortBy": "orders,desc"
+    "product_id": "1005007100433982",
+    "ship_to_country": "ES",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "3",
-    "sortBy": "orders,desc"
+    "product_id": "1005005178341043",
+    "ship_to_country": "ES",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "jersey hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "1",
-    "sortBy": "orders,desc"
+    "product_id": "1005008076898965",
+    "ship_to_country": "ES",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "jersey hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "2",
-    "sortBy": "orders,desc"
+    "product_id": "1005006919742077",
+    "ship_to_country": "ES",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "jersey hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "3",
-    "sortBy": "orders,desc"
+    "product_id": "1005006645829730",
+    "ship_to_country": "ES",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "modal hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "1",
-    "sortBy": "orders,desc"
+    "product_id": "1005006319086970",
+    "ship_to_country": "ES",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "modal hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "2",
-    "sortBy": "orders,desc"
+    "product_id": "1005006421100014",
+    "ship_to_country": "ES",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "modal hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "3",
-    "sortBy": "orders,desc"
+    "product_id": "1005011722159135",
+    "ship_to_country": "ES",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "crinkle hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "1",
-    "sortBy": "orders,desc"
+    "product_id": "1005011536840709",
+    "ship_to_country": "ES",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "crinkle hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "2",
-    "sortBy": "orders,desc"
+    "product_id": "33055642968",
+    "ship_to_country": "ES",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "crinkle hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "3",
-    "sortBy": "orders,desc"
+    "product_id": "1005002864337827",
+    "ship_to_country": "ES",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "rayon hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "1",
-    "sortBy": "orders,desc"
+    "product_id": "1005010346019821",
+    "ship_to_country": "ES",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "rayon hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "2",
-    "sortBy": "orders,desc"
-   }
-  },
-  {
-   "method": "aliexpress.ds.text.search",
-   "params": {
-    "keyWord": "rayon hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "3",
-    "sortBy": "orders,desc"
-   }
-  },
-  {
-   "method": "aliexpress.ds.text.search",
-   "params": {
-    "keyWord": "viscose hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "1",
-    "sortBy": "orders,desc"
-   }
-  },
-  {
-   "method": "aliexpress.ds.text.search",
-   "params": {
-    "keyWord": "viscose hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "2",
-    "sortBy": "orders,desc"
-   }
-  },
-  {
-   "method": "aliexpress.ds.text.search",
-   "params": {
-    "keyWord": "viscose hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "3",
-    "sortBy": "orders,desc"
-   }
-  },
-  {
-   "method": "aliexpress.ds.text.search",
-   "params": {
-    "keyWord": "cotton hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "1",
-    "sortBy": "orders,desc"
-   }
-  },
-  {
-   "method": "aliexpress.ds.text.search",
-   "params": {
-    "keyWord": "cotton hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "2",
-    "sortBy": "orders,desc"
-   }
-  },
-  {
-   "method": "aliexpress.ds.text.search",
-   "params": {
-    "keyWord": "cotton hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "3",
-    "sortBy": "orders,desc"
-   }
-  },
-  {
-   "method": "aliexpress.ds.text.search",
-   "params": {
-    "keyWord": "premium hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "1",
-    "sortBy": "orders,desc"
-   }
-  },
-  {
-   "method": "aliexpress.ds.text.search",
-   "params": {
-    "keyWord": "premium hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "2",
-    "sortBy": "orders,desc"
-   }
-  },
-  {
-   "method": "aliexpress.ds.text.search",
-   "params": {
-    "keyWord": "premium hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "3",
-    "sortBy": "orders,desc"
-   }
-  },
-  {
-   "method": "aliexpress.ds.text.search",
-   "params": {
-    "keyWord": "undercap hijab set",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "1",
-    "sortBy": "orders,desc"
-   }
-  },
-  {
-   "method": "aliexpress.ds.text.search",
-   "params": {
-    "keyWord": "undercap hijab set",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "2",
-    "sortBy": "orders,desc"
-   }
-  },
-  {
-   "method": "aliexpress.ds.text.search",
-   "params": {
-    "keyWord": "undercap hijab set",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "3",
-    "sortBy": "orders,desc"
+    "product_id": "1005007700644107",
+    "ship_to_country": "ES",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   }
  ]
