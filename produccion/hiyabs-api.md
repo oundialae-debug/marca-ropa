@@ -7,6 +7,9 @@ En los productos *Choice* el envío a los 5 países cuesta **1,99 € por pedido
 
 Los productos que **no** son Choice (ej. set GELMOIN con gorro, 4,9★, 2.000+ ventas) cuestan 6-8,5 € de envío por pedido → descartados por coste.
 
+## ¿Almacén en Europa?
+No para estos hiyabs (10/10/2026): la API de envíos devuelve **"ship_from: CN"** para los 5 finalistas y los 5 países, y sus fichas no tienen opción "Enviar desde" europea. El filtro por almacén en la búsqueda de la API no funciona (devuelve los mismos productos), y en la app de AliExpress el filtro UE solo muestra revendedores a 31-67 € sin ventas. Con *Choice* desde China el plazo ya es de 4-13 días.
+
 ## Finalistas
 | hiyab | tienda | ID AliExpress | ventas | nota | reseñas | colores | precio | coste 1 ud. UE | coste 1 ud. UK | pack 3 iguales UE (por ud.) | envío a | días | en Shopify |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
