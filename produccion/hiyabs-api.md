@@ -80,3 +80,10 @@ Decisión de la usuaria: aceptar modelos con pocas reseñas si la tienda es buen
 | 8 | Cobertura completa elástico (reserva) | Islamic products | 1005002864337827 | 5,0 (9) | 16 (10, incl. negro) | 4,29 € | 2,15-2,86 €, hasta 17 días | importar como reserva |
 
 Total: 3 en tienda + 8 por importar = **11**. RUNMEIFA (2 modelos) permite pedidos combinados de la misma tienda.
+
+## Corrección (10/10/2026 06:40)
+Comparadas las fotos de AliExpress (API) con todos los productos de Shopify, incluidos los archivados:
+- Crinkle Vora 1005006645829730 = **11262958010711** (importado con DSers, se había archivado por error) → recuperado. La copia creada a mano (11263097733463) queda archivada con etiqueta `copia-manual`.
+- Jersey liso 4000022442764 = **11262958141783** (primer hiyab importado, archivado por error) → recuperado.
+- **En tienda (borrador, Hiyab + novedad, enlazados en DSers): 5** → 11262958010711, 11262958141783, 11262959223127, 11262957846871, 11262957683031.
+- **Por importar: 6** → 1005006411486233, 33055642968, 1005005633125258, 1005008208535051, 1005009107242857, 1005002864337827.
