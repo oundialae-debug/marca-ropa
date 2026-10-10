@@ -1,22 +1,868 @@
 {
- "id": 14,
+ "id": 15,
  "llamadas": [
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.text.search",
    "params": {
-    "product_id": "1005008134013749",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.text.search",
    "params": {
-    "product_id": "1005010534806473",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "5"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "6"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "7"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "8"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "9"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "10"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "11"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hijab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "12"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "5"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "6"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "7"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "8"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "9"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "10"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "11"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "12"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "5"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "6"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "7"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "8"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "9"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "10"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "11"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "12"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "bufanda",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "bufanda",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "bufanda",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "bufanda",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "bufanda",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "5"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "bufanda",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "6"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "bufanda",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "7"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "bufanda",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "8"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "bufanda",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "9"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "bufanda",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "10"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "bufanda",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "11"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "bufanda",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "12"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "chal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "chal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "chal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "chal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "chal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "5"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "chal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "6"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "chal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "7"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "chal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "8"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "chal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "9"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "chal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "10"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "chal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "11"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "chal",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "12"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hiyab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hiyab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hiyab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "3"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hiyab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "4"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hiyab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "5"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hiyab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "6"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hiyab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "7"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hiyab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "8"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hiyab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "9"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hiyab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "10"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hiyab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "11"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "hiyab",
+    "categoryId": "200003922",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "12"
    }
   }
  ]
