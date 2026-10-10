@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 10/10/2026: Producción: German Drop descartado (decisión de la usuaria). Solo queda CJ pendiente; si no, AliExpress/DSers.
 - 10/10/2026: Producción: Hertwill, EPROLO y demás no sirven para hiyabs (probado por la usuaria). En marcha: CJ y German Drop; si fallan, AliExpress/DSers.
 - 10/10/2026: Producción: German Drop = agente tipo CJ (no consta almacén en Alemania); probar con 1-2 presupuestos.
 - 10/10/2026: Producción: revisadas Hertwill, EPROLO, Shein, Zendrop y AutoDS para hiyabs. Solo Hertwill (almacén UE, sin arancel) merece probarse; Shein, Zendrop y AutoDS descartados.
