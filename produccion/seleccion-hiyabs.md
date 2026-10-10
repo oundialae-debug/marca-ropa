@@ -12,9 +12,9 @@ Criterios (`CLAUDE.md`, fase 1 sin muestras): reseñas con fotos de clientas · 
 
 ## Coste real a la puerta (actualizado 10/10/2026)
 El cálculo de arriba se quedaba corto. Coste real por hiyab enviado solo:
-- **España/UE:** (producto + 2 € envío) × 1,21 IVA (AliExpress lo cobra al pagar, IOSS) **+ 3,63 €** (arancel UE de 3 € por línea desde el 1/7/2026, + IVA). Puede haber además tasa de gestión del transportista si el pedido no va con aranceles pagados (DDP): **comprobar en el primer pedido**.
+- **España/UE:** (producto + 2 € envío) × 1,21 IVA (AliExpress lo cobra al pagar, IOSS) **+ 3,63 €** (arancel UE de 3 € por línea desde el 1/7/2026, + IVA). **Confirmado en el checkout de AliExpress (10/10/2026):** envío 1,99 €, "cargos de importación estimados" 3,63 € cobrados al pagar, "precio todo incluido, sin cargos sorpresa en la entrega" (no hay tasa del transportista). Entrega 8-15 días (Correos, GLS, CTT…). Ejemplo: 7,49 € + 1,99 € + 3,63 € = 13,11 €.
 - **UK:** (producto + 2 €) × 1,20 IVA UK (cobrado por AliExpress en pedidos ≤ 135 £). Sin el arancel de 3 €.
-- **Plazo:** envío estándar/Choice a España, mediana ~12 días (8 de cada 10 entre 10 y 25 días). Cumple ≤15 días en la mayoría, no siempre.
+- **Plazo:** 8-15 días a España según el checkout real (cumple ≤15 días).
 
 | modelo | coste DSers | coste real ES | coste real UK | precio ×3 (ES) | margen | precio ×2,5 (ES) | margen |
 |---|---|---|---|---|---|---|---|

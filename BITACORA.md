@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 10/10/2026: Producción: checkout real AliExpress confirma envío 1,99 €, aranceles 3,63 € cobrados al pagar (sin sorpresas en la entrega) y entrega 8-15 días.
 - 10/10/2026: Producción: coste real de los hiyabs con IVA (IOSS) + arancel UE 3 €/línea → ×3 da 35-52 €; propuesta ×2,5 o packs para el chat Producto. Ver `produccion/seleccion-hiyabs.md`.
 - 10/10/2026: Producción: selección hiyabs v1 (`produccion/seleccion-hiyabs.md`): 8 ✅ de 19, tipo Hiyab + etiqueta novedad en Shopify (borrador); precios ×3 propuestos para el chat Producto.
 
