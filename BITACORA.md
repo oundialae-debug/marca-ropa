@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 10/10/2026: Producción: AliExpress con envío desde la UE no tiene hiyabs útiles (revendedores a 31-67 € sin ventas). Selección fase 1 cerrada: 9 hiyabs desde China (DSers). Pendiente: precios en chat Producto; mirar almacén UE de LAVEN en el primer pedido.
 - 10/10/2026: Producción: 2 hiyabs de LAVEN (VS527 y crinkle VS723) también se envían desde almacenes en ES/FR/DE (sin arancel). VS527 recuperado (9 ✅). Propuesta: API de AliExpress para que Producción busque productos sin depender de la usuaria.
 - 10/10/2026: Producción: tanda 2 de hiyabs (5): ninguno pasa el filtro (stock, ficha contradictoria o repetido). BS082 de LOVOSME queda como proveedor de reserva del #3.
 - 10/10/2026: Producción: German Drop descartado (decisión de la usuaria). Solo queda CJ pendiente; si no, AliExpress/DSers.

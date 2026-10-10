@@ -36,6 +36,8 @@ Según findniche (ranking público de AliExpress por país de envío), dos anunc
 |---|---|---|---|
 | Modal VS527 "Big Size" 190×85 | 5.870 | España y Francia | 11262957683031 (recuperado: tipo Hiyab + novedad) |
 | Crinkle rayón VS723 / CXT0824 | 5.300 | Alemania y Francia | 11262958010711 (#4) |
+**Comprobado en AliExpress (10/10/2026, 04:05):** con el filtro "Envío desde: UE/España" solo salen revendedores a 31-67 € sin ventas o pañuelos decorativos; no hay hiyabs útiles con stock europeo. **Selección cerrada con 9 hiyabs desde China.**
+
 **Pendiente:** DSers importó estos anuncios sin la opción "Ships from". Hay que elegir el almacén europeo en DSers (*Mapping* / *Advanced Mapping*) o volver a importarlos con esa opción. Confirmar el coste del envío desde la UE.
 
 ## ✅ Nos los quedamos
