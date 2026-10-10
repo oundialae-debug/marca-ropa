@@ -30,6 +30,14 @@ El cálculo de arriba se quedaba corto. Coste real por hiyab enviado solo:
 **Conclusión:** con aranceles e IVA, ×3 da 35-52 € por hiyab, demasiado para poliéster de China. Opciones para Producto: ×2,5, o **packs** (el arancel es por línea arancelaria: 3 hiyabs iguales del mismo vendedor en un paquete = un solo 3 €). 5 de los 8 son del mismo vendedor (LAVEN), lo que facilita packs.
 Los precios de la tabla de abajo (×3 sin impuestos) quedan **sustituidos** por esta.
 
+## 🇪🇺 Hiyabs con almacén en Europa (10/10/2026)
+Según findniche (ranking público de AliExpress por país de envío), dos anuncios de LAVEN se venden también **desde almacenes en España, Francia y Alemania**: sin arancel de 3 € y con entrega más rápida.
+| modelo | pedidos | se envía desde | en Shopify |
+|---|---|---|---|
+| Modal VS527 "Big Size" 190×85 | 5.870 | España y Francia | 11262957683031 (recuperado: tipo Hiyab + novedad) |
+| Crinkle rayón VS723 / CXT0824 | 5.300 | Alemania y Francia | 11262958010711 (#4) |
+**Pendiente:** DSers importó estos anuncios sin la opción "Ships from". Hay que elegir el almacén europeo en DSers (*Mapping* / *Advanced Mapping*) o volver a importarlos con esa opción. Confirmar el coste del envío desde la UE.
+
 ## ✅ Nos los quedamos
 | # | modelo | proveedor (marca AliExpress) | tejido (ficha) | coste total | precio | margen | Shopify ID |
 |---|---|---|---|---|---|---|---|
@@ -50,7 +58,6 @@ Los precios de la tabla de abajo (×3 sin impuestos) quedan **sustituidos** por 
 | Mini modal con gorro 165×50 | voile fino ("thin"), sección niñas | 11262957945175 |
 | Instant voile degradado | voile fino | 11262958043479 |
 | Crinkle algodón VS360 | ficha dice "lace"; nos quedamos el crinkle VS723 | 11262957977943 |
-| Modal VS527 200×85 | repetido del VS527D (mismo proveedor), varios colores sin stock | 11262957683031 |
 | YW125 "premium" | repetido del YW125 (#1), con menos stock | 11262957846871 |
 | Instant jersey MSL352 80×70 | casi sin stock (1-16 por color) | 11262957650263 |
 | Inner instant MSL305 (×2) | casi sin stock y repetidos | 11262957715799, 11262957814103 |
