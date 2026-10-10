@@ -1,95 +1,67 @@
 {
- "id": 8,
+ "id": 9,
  "llamadas": [
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "FR",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "1",
-    "shipFromCountry": "FR"
+    "product_id": "1005007100433982",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "ES",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "1",
-    "shipFromCountry": "ES"
+    "product_id": "1005005178341043",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "DE",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "1",
-    "shipFromCountry": "DE"
+    "product_id": "1005006645829730",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "PL",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "1",
-    "shipFromCountry": "PL"
+    "product_id": "1005006319086970",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "IT",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "1",
-    "shipFromCountry": "IT"
+    "product_id": "1005006919742077",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "NL",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "1",
-    "shipFromCountry": "NL"
+    "product_id": "1005008076898965",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   },
   {
-   "method": "aliexpress.ds.text.search",
+   "method": "aliexpress.ds.product.get",
    "params": {
-    "keyWord": "hijab",
-    "categoryId": "200003922",
-    "local": "es_ES",
-    "countryCode": "GB",
-    "currency": "EUR",
-    "pageSize": "50",
-    "pageIndex": "1",
-    "shipFromCountry": "GB"
+    "product_id": "1005009107242857",
+    "ship_to_country": "FR",
+    "target_currency": "EUR",
+    "target_language": "ES"
    }
   }
  ]
