@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 10/10/2026: Producción: Hertwill, EPROLO y demás no sirven para hiyabs (probado por la usuaria). En marcha: CJ y German Drop; si fallan, AliExpress/DSers.
 - 10/10/2026: Producción: German Drop = agente tipo CJ (no consta almacén en Alemania); probar con 1-2 presupuestos.
 - 10/10/2026: Producción: revisadas Hertwill, EPROLO, Shein, Zendrop y AutoDS para hiyabs. Solo Hertwill (almacén UE, sin arancel) merece probarse; Shein, Zendrop y AutoDS descartados.
 - 10/10/2026: Producto: comprobación de precios con la competencia: en la UE el jersey se vende a 4-20 €, por debajo del coste puesto de AliExpress (12-15 €). Precios propuestos en espera; decidir en General si fase 1 empieza por UK o con proveedor con stock en la UE.

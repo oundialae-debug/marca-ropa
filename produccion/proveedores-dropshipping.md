@@ -51,4 +51,6 @@ Pedir **muestras de 2-3 proveedores** y probar: opacidad (a contraluz y con flas
 | **AutoDS** | herramienta (no proveedor) que conecta AliExpress, Amazon, Shein… | depende del proveedor | desde 26,90 $/mes | los mismos que AliExpress | ❌ Hace lo mismo que DSers, que es gratis |
 | **German Drop** | agente de compras (German Drop Technology Limited), parecido a CJ: pegas un enlace de AliExpress y te dan precio | 7-12 días; dice tener 7 almacenes sin decir dónde; el nombre no garantiza envío desde Alemania | sin cuota mensual; precio por presupuesto | los que le pidas con enlace | **Probar como CJ**: pedir presupuesto de 1-2 hiyabs preguntando país de envío y si incluye IVA + arancel. Reseñas 5,0 (151) pero todas muy parecidas: no fiarse solo de eso |
 
+**Resultado (10/10/2026):** la usuaria probó Hertwill, EPROLO y las demás y ninguna le sirvió para hiyabs. Quedan en marcha: CJ (solicitudes de sourcing enviadas) y German Drop (presupuesto). Si ninguno da envío desde la UE, seguimos con AliExpress/DSers, que funciona y tiene costes confirmados.
+
 Fuentes: germandropde.com, apps.shopify.com/germandrop/reviews, hertwill.com/faqs, apps.shopify.com/hertwill, eprolo.com/dropshipping-suppliers-europe, nichedropshipping.com/shein-dropshipping, spocket.co/blogs/does-zendrop-ship-to-the-eu, apps.shopify.com/AutoDS.
