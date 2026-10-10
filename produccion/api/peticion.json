@@ -1,4 +1,5 @@
-{"id": 1, "llamadas": [
-  {"method": "aliexpress.ds.text.search", "token": false,
+{"id": 2, "llamadas": [
+  {"tipo": "token", "code": "3_552384_MuE8OmhmcgLyONCYjI5cBzGm216"},
+  {"method": "aliexpress.ds.text.search",
    "params": {"keyWord": "jersey hijab", "local": "es_ES", "countryCode": "ES", "currency": "EUR", "pageSize": "5", "pageIndex": "1"}}
 ]}
