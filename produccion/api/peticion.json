@@ -1,94 +1,232 @@
 {
- "id": 11,
+ "id": 12,
  "llamadas": [
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005006421100014",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"GB\", \"productId\": \"1005002864337827\", \"selectedSkuId\": \"12000022515810183\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005011536840709",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"FR\", \"productId\": \"1005002864337827\", \"selectedSkuId\": \"12000022515810183\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005010346019821",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"DE\", \"productId\": \"1005002864337827\", \"selectedSkuId\": \"12000022515810183\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005002864337827",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"NL\", \"productId\": \"1005002864337827\", \"selectedSkuId\": \"12000022515810183\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005008157490455",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"IT\", \"productId\": \"1005002864337827\", \"selectedSkuId\": \"12000022515810183\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005007997898408",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"GB\", \"productId\": \"1005011722159135\", \"selectedSkuId\": \"12000056353173805\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005011722159135",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"FR\", \"productId\": \"1005011722159135\", \"selectedSkuId\": \"12000056353173805\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005009107242857",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"DE\", \"productId\": \"1005011722159135\", \"selectedSkuId\": \"12000056353173805\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005004710849831",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"NL\", \"productId\": \"1005011722159135\", \"selectedSkuId\": \"12000056353173805\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
    }
   },
   {
-   "method": "aliexpress.ds.product.get",
+   "method": "aliexpress.ds.freight.query",
    "params": {
-    "product_id": "1005007493796148",
-    "ship_to_country": "FR",
-    "target_currency": "EUR",
-    "target_language": "ES"
+    "queryDeliveryReq": "{\"quantity\": 1, \"shipToCountry\": \"IT\", \"productId\": \"1005011722159135\", \"selectedSkuId\": \"12000056353173805\", \"language\": \"es_ES\", \"currency\": \"EUR\", \"locale\": \"es_ES\"}"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "plain long scarf",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "plain long scarf",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey scarf women",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "jersey scarf women",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal scarf solid",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "modal scarf solid",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "viscose scarf plain",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "viscose scarf plain",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "cotton scarf solid long",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "cotton scarf solid long",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "rayon shawl solid",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "rayon shawl solid",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "crinkle scarf",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "1",
+    "sortBy": "orders,desc"
+   }
+  },
+  {
+   "method": "aliexpress.ds.text.search",
+   "params": {
+    "keyWord": "crinkle scarf",
+    "local": "es_ES",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "pageSize": "50",
+    "pageIndex": "2",
+    "sortBy": "orders,desc"
    }
   }
  ]
