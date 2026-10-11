@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 11/10/2026: Producto: tanda 3 en Shopify (borrador): aspecto lino, plisado y jersey liso 180 × 80 a 19,90 € (pack ×3 −15 % = 50,74 €, deja 18-20 € en la UE). Quitados colores <100 ud. y variantes multipack del jersey LAVEN. Total: 12 hiyabs con precio.
 - 11/10/2026: Producción: tanda 3 importada (3 hiyabs) y marcada en Shopify (tipo Hiyab + novedad, borrador). Total: 12 hiyabs + 2 gorros. Pendiente precios en chat Producto.
 - 10/10/2026: Producción: tanda 3 (búsqueda por imagen API): 3 hiyabs nuevos para importar (lino-algodón, plisado SWINATE, jersey grande LAVEN), todos Choice 1,99 €. Detalle en `produccion/hiyabs-api.md`.
 - 10/10/2026: Producción: documentación oficial de la API (AE-Dropshipper) descargada y resumida en `produccion/api/`. Búsqueda por imagen probada: amplía mucho el catálogo. La cuenta puede pedir el beneficio `wholesale-benefit` (decidir en General). Crear pedidos por API: prohibido sin permiso.

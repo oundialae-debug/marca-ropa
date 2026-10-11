@@ -1,6 +1,7 @@
-# Precios y márgenes — fase 1 (10/10/2026, v2)
+# Precios y márgenes — fase 1 (v2, actualizado 11/10/2026)
 
-**Aplicado en Shopify** el 10/10/2026: precios, títulos, textos, colores agotados quitados y descuento de pack. Todo sigue en **borrador**.
+**Aplicado en Shopify** el 10/10/2026 (9 hiyabs + 2 gorros) y el 11/10/2026 (tanda 3: 3 hiyabs). Precios, títulos, textos, colores con <100 ud. quitados y descuento de pack. Todo sigue en **borrador**.
+Tanda 3: costes de `produccion/hiyabs-api.md` «TANDA 3» (precio máx. con IVA + 1,99 € + 3,63 €). En el jersey LAVEN se quitaron también las variantes de 2 y 3 unidades.
 Base: «VERIFICACIÓN FINAL» de `produccion/hiyabs-api.md` (costes con IVA, envío y arancel, calculados por Producción). Sustituye a la v1.
 
 ## Cálculo
@@ -23,6 +24,9 @@ Base: «VERIFICACIÓN FINAL» de `produccion/hiyabs-api.md` (costes con IVA, env
 | Hiyab liso grande 190 × 85 | modal/rayón liso · Hijab Glamour | 26,90 € | 4,67 € | 14,61 € | 1,03 € | 🔴 6,59 € | 9,74 € | 10,14 € | 68,59 € | 32,58 € | 21,87 € | 25,28 € |
 | Hiyab crinkle 180 × 80 | crinkle rayón · Yiwu Vora | 26,90 € | 4,67 € | 16,21 € | 1,03 € | 🔴 4,99 € | 8,14 € | 8,54 € | 68,59 € | 37,38 € | 17,07 € | 20,48 € |
 | Set hiyab + gorro interior | GELMOIN (premium) | 32,90 € | 5,71 € | 17,99 € | 1,20 € | 8,00 € | 11,15 € | 11,52 € | 83,89 € | 40,65 € | 26,00 € | 29,37 € |
+| Hiyab aspecto lino 90 × 180 *(tanda 3)* | lino-algodón · Shop1102297509 | 19,90 € | 3,45 € | 10,61 € | 0,83 € | 🔴 5,01 € | 8,16 € | 8,58 € | 50,74 € | 20,59 € | 19,62 € | 23,09 € |
+| Hiyab plisado 180 × 90 *(tanda 3)* | plisado · SWINATE | 19,90 € | 3,45 € | 10,61 € | 0,83 € | 🔴 5,01 € | 8,16 € | 8,58 € | 50,74 € | 20,59 € | 19,62 € | 23,09 € |
+| Hiyab jersey liso 180 × 80 *(tanda 3)* | jersey · LAVEN (BS082) | 19,90 € | 3,45 € | 11,21 € | 0,83 € | 🔴 4,41 € | 🔴 7,56 € | 🔴 7,98 € | 50,74 € | 22,39 € | 17,82 € | 21,29 € |
 
 **Lectura:**
 - **El hiyab suelto en la UE solo funciona si se cobra el envío** (3,95 €). Aun así deja 7-11 €, que no da para anuncios.
