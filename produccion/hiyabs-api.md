@@ -146,4 +146,6 @@ Búsqueda por imagen con los 9 hiyabs → 178 resultados → 41 revisados con `p
 | 1005008827503014 | Plisado "algodón-lino" 180×90 (SWINATE) | SWINATE Official (4,7) | 4,7 · 132 · 495 | 4,29-4,99 € | 27 / 7 | ficha: **poliéster** → no prometer lino |
 | 1005007231660533 | Jersey grande 180×80 | LAVEN Scarf Store (4,6) | 4,5 · 26 · 82 | 5,59 € (variantes caras: quitar) | 25 / 6 | DE a veces sin servicio (temporal) |
 
+**Importados (11/10/2026), borrador, tipo `Hiyab` + `novedad`:** lino-algodón → Shopify 11268145971543 · plisado SWINATE → 11268146102615 · jersey LAVEN → 11268146037079. **Total en tienda: 12 hiyabs + 2 gorros.** Falta: precios y quitar variantes caras (chat Producto).
+
 **❌ Descartados:** GELMOIN modal/bambú (1005009907834341, 1005009719701969, 1005007837285175): no Choice, envío 4,80-8,17 € por unidad. Lino-algodón arrugado 1005005735242942: casi igual al primero y ficha de poliéster. 1005003567982382: es el BS082 ya archivado. Crinkle viscosa Yiwu Dreamer 1005005626604512: repite el crinkle grande. Voile (1005009773931347, 1005004567820288): transparenta. Resto: sin stock.

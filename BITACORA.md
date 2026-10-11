@@ -2,6 +2,7 @@
 
 Una línea por decisión o cambio, la más reciente arriba.
 
+- 11/10/2026: Producción: tanda 3 importada (3 hiyabs) y marcada en Shopify (tipo Hiyab + novedad, borrador). Total: 12 hiyabs + 2 gorros. Pendiente precios en chat Producto.
 - 10/10/2026: Producción: tanda 3 (búsqueda por imagen API): 3 hiyabs nuevos para importar (lino-algodón, plisado SWINATE, jersey grande LAVEN), todos Choice 1,99 €. Detalle en `produccion/hiyabs-api.md`.
 - 10/10/2026: Producción: documentación oficial de la API (AE-Dropshipper) descargada y resumida en `produccion/api/`. Búsqueda por imagen probada: amplía mucho el catálogo. La cuenta puede pedir el beneficio `wholesale-benefit` (decidir en General). Crear pedidos por API: prohibido sin permiso.
 - 10/10/2026: Producto: precios v2 aplicados en Shopify (borrador): hiyabs 19,90/22,90/26,90 €, set GELMOIN 32,90 €, gorros 12,90 € (propuesta: no publicarlos, dan pérdida). Pack = 3 del mismo modelo −15 % (9 descuentos automáticos). Colores con <100 ud. quitados; títulos y textos en español. Envío propuesto: 3,95 € y gratis desde 49 € (chat Web). Detalle en `producto/margenes.md`.
